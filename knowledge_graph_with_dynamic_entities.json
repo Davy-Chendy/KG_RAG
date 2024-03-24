@@ -1,0 +1,402 @@
+{
+    "edges": [
+        [
+            "A Survey of Large Language Models for Code: Evolution, Benchmarking, and\n  Future Trends",
+            "author",
+            "Jiachi Chen"
+        ],
+        [
+            "A Survey of Large Language Models for Code: Evolution, Benchmarking, and\n  Future Trends",
+            "published",
+            "2023-11-17T07:55:16Z"
+        ],
+        [
+            "TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for\n  Time Series",
+            "author",
+            "Shenda Hong"
+        ],
+        [
+            "TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for\n  Time Series",
+            "published",
+            "2023-08-16T09:16:02Z"
+        ],
+        [
+            "Benchmarking LLMs via Uncertainty Quantification",
+            "author",
+            "Zhaopeng Tu"
+        ],
+        [
+            "Benchmarking LLMs via Uncertainty Quantification",
+            "published",
+            "2024-01-23T14:29:17Z"
+        ],
+        [
+            "Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on\n  Zero-shot LLM Assessment",
+            "author",
+            "Mark Gales"
+        ],
+        [
+            "Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on\n  Zero-shot LLM Assessment",
+            "published",
+            "2024-02-21T18:55:20Z"
+        ],
+        [
+            "MEGAnno+: A Human-LLM Collaborative Annotation System",
+            "author",
+            "Dan Zhang"
+        ],
+        [
+            "MEGAnno+: A Human-LLM Collaborative Annotation System",
+            "published",
+            "2024-02-28T04:58:07Z"
+        ],
+        [
+            "Why and When LLM-Based Assistants Can Go Wrong: Investigating the\n  Effectiveness of Prompt-Based Interactions for Software Help-Seeking",
+            "author",
+            "Parmit K Chilana"
+        ],
+        [
+            "Why and When LLM-Based Assistants Can Go Wrong: Investigating the\n  Effectiveness of Prompt-Based Interactions for Software Help-Seeking",
+            "published",
+            "2024-02-12T19:49:58Z"
+        ],
+        [
+            "On the Origin of LLMs: An Evolutionary Tree and Graph for 15,821 Large\n  Language Models",
+            "author",
+            "Andrew Kean Gao"
+        ],
+        [
+            "On the Origin of LLMs: An Evolutionary Tree and Graph for 15,821 Large\n  Language Models",
+            "published",
+            "2023-07-19T07:17:43Z"
+        ],
+        [
+            "Combating Misinformation in the Age of LLMs: Opportunities and\n  Challenges",
+            "author",
+            "Kai Shu"
+        ],
+        [
+            "Combating Misinformation in the Age of LLMs: Opportunities and\n  Challenges",
+            "published",
+            "2023-11-09T00:05:27Z"
+        ],
+        [
+            "Towards Vision Enhancing LLMs: Empowering Multimodal Knowledge Storage\n  and Sharing in LLMs",
+            "author",
+            "Min Zhang"
+        ],
+        [
+            "Towards Vision Enhancing LLMs: Empowering Multimodal Knowledge Storage\n  and Sharing in LLMs",
+            "published",
+            "2023-11-27T12:29:20Z"
+        ],
+        [
+            "Any-Precision LLM: Low-Cost Deployment of Multiple, Different-Sized LLMs",
+            "author",
+            "Jae W. Lee"
+        ],
+        [
+            "Any-Precision LLM: Low-Cost Deployment of Multiple, Different-Sized LLMs",
+            "published",
+            "2024-02-16T09:06:06Z"
+        ],
+        [
+            "Do Large Language Models Mirror Cognitive Language Processing?",
+            "author",
+            "Deyi Xiong"
+        ],
+        [
+            "Do Large Language Models Mirror Cognitive Language Processing?",
+            "published",
+            "2024-02-28T03:38:20Z"
+        ],
+        [
+            "SVD-LLM: Truncation-aware Singular Value Decomposition for Large\n  Language Model Compression",
+            "author",
+            "Mi Zhang"
+        ],
+        [
+            "SVD-LLM: Truncation-aware Singular Value Decomposition for Large\n  Language Model Compression",
+            "published",
+            "2024-03-12T07:31:18Z"
+        ],
+        [
+            "RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit",
+            "author",
+            "Ji-Rong Wen"
+        ],
+        [
+            "RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit",
+            "published",
+            "2023-06-08T14:10:54Z"
+        ],
+        [
+            "MART: Improving LLM Safety with Multi-round Automatic Red-Teaming",
+            "author",
+            "Yuning Mao"
+        ],
+        [
+            "MART: Improving LLM Safety with Multi-round Automatic Red-Teaming",
+            "published",
+            "2023-11-13T19:13:29Z"
+        ],
+        [
+            "llm-japanese-dataset v0: Construction of Japanese Chat Dataset for Large\n  Language Models and its Methodology",
+            "author",
+            "Hiroki Sakaji"
+        ],
+        [
+            "llm-japanese-dataset v0: Construction of Japanese Chat Dataset for Large\n  Language Models and its Methodology",
+            "published",
+            "2023-05-22T04:59:33Z"
+        ],
+        [
+            "A Comprehensive Evaluation of Constrained Text Generation for Large\n  Language Models",
+            "author",
+            "Xiaojun Wan"
+        ],
+        [
+            "A Comprehensive Evaluation of Constrained Text Generation for Large\n  Language Models",
+            "published",
+            "2023-10-25T03:58:49Z"
+        ],
+        [
+            "QuaCer-C: Quantitative Certification of Knowledge Comprehension in LLMs",
+            "author",
+            "Gagandeep Singh"
+        ],
+        [
+            "QuaCer-C: Quantitative Certification of Knowledge Comprehension in LLMs",
+            "published",
+            "2024-02-24T23:16:57Z"
+        ],
+        [
+            "LawBench: Benchmarking Legal Knowledge of Large Language Models",
+            "author",
+            "Jidong Ge"
+        ],
+        [
+            "LawBench: Benchmarking Legal Knowledge of Large Language Models",
+            "published",
+            "2023-09-28T09:35:59Z"
+        ],
+        [
+            "Identifying Multiple Personalities in Large Language Models with\n  External Evaluation",
+            "author",
+            "Simerjot Kaur"
+        ],
+        [
+            "Identifying Multiple Personalities in Large Language Models with\n  External Evaluation",
+            "published",
+            "2024-02-22T18:57:20Z"
+        ],
+        [
+            "Minions: Accelerating Large Language Model Inference with Adaptive and\n  Collective Speculative Decoding",
+            "author",
+            "Depei Qian"
+        ],
+        [
+            "Minions: Accelerating Large Language Model Inference with Adaptive and\n  Collective Speculative Decoding",
+            "published",
+            "2024-02-24T01:45:35Z"
+        ]
+    ],
+    "entities": {
+        "Jiachi Chen": {},
+        "2023-11-17T07:55:16Z": {},
+        "Large Language Models, Software Engineering": {},
+        "A Survey of Large Language Models for Code: Evolution, Benchmarking, and\n  Future Trends": {
+            "field": "Large Language Models, Software Engineering",
+            "problems": "Lack of systematic investigation into Code Large Language Models (LLMs) and their performance, frequent updates of Code LLMs influenced by base LLMs",
+            "methods": "Conducting a comprehensive survey and analysis of the types of Code LLMs, collecting relevant literature and work from five major databases and open-source communities, categorizing the Code LLMs based on their publishers, investigating the performance differences between general LLMs and Code LLMs",
+            "effects": "Assists developers of Code LLMs in choosing base models for the development of more advanced LLMs, provides insights for practitioners to better understand key improvement directions for Code LLMs"
+        },
+        "Shenda Hong": {},
+        "2023-08-16T09:16:02Z": {},
+        "Large Language Models, Time-Series tasks": {},
+        "TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for\n  Time Series": {
+            "field": "Large Language Models, Time-Series tasks",
+            "problems": "Lack of data, limited resources, semantic context requirements",
+            "methods": "LLM-for-TS (model-centric) designs, TS-for-LLM (data-centric) designs, TS embedding method, TEST strategy",
+            "effects": "Better or comparable performance than today's SOTA TS models, benefits for few-shot and generalization, ability to process TS data without compromising language ability"
+        },
+        "Zhaopeng Tu": {},
+        "2024-01-23T14:29:17Z": {},
+        "Large Language Models": {},
+        "Benchmarking LLMs via Uncertainty Quantification": {
+            "field": "Large Language Models",
+            "problems": "Lack of comprehensive evaluation methods for Large Language Models, particularly the neglect of uncertainty in current evaluation platforms",
+            "methods": "Introduction of a new benchmarking approach that integrates uncertainty quantification, introduction of an uncertainty-aware evaluation metric (UAcc) that considers both prediction accuracy and prediction uncertainty",
+            "effects": "Findings reveal that LLMs with higher accuracy may exhibit lower certainty, larger-scale LLMs may display greater uncertainty compared to their smaller counterparts, and instruction-finetuning tends to increase the uncertainty of LLMs. The new UAcc metric can either amplify or diminish the relative improvement of one LLM over another and may even change the relative ranking of two LLMs"
+        },
+        "Mark Gales": {},
+        "2024-02-21T18:55:20Z": {},
+        "Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on\n  Zero-shot LLM Assessment": {
+            "field": "Large Language Models",
+            "problems": "Vulnerability of judge-LLMs against adversaries attempting to manipulate outputs, susceptibility to simple concatenation attacks, transferability of attacks across different judge-LLM sizes, families and methods",
+            "methods": "Searching for short universal phrases that when appended to texts can deceive LLMs to provide high assessment scores",
+            "effects": "Raises significant concerns on the reliability of LLMs-as-a-judge methods, highlights the importance of addressing vulnerabilities in LLM assessment methods before deployment in high-stakes real-world scenarios"
+        },
+        "Dan Zhang": {},
+        "2024-02-28T04:58:07Z": {},
+        "MEGAnno+: A Human-LLM Collaborative Annotation System": {
+            "field": "Large Language Models",
+            "problems": "LLMs may fall short in understanding of complex, sociocultural, or domain-specific context, potentially leading to incorrect annotations",
+            "methods": "A collaborative approach where humans and LLMs work together to produce reliable and high-quality labels. MEGAnno+, a human-LLM collaborative annotation system that offers effective LLM agent and annotation management, convenient and robust LLM annotation, and exploratory verification of LLM labels by humans",
+            "effects": "Faster and cheaper data labeling for various NLP tasks"
+        },
+        "Parmit K Chilana": {},
+        "2024-02-12T19:49:58Z": {},
+        "Why and When LLM-Based Assistants Can Go Wrong: Investigating the\n  Effectiveness of Prompt-Based Interactions for Software Help-Seeking": {
+            "field": "Large Language Models",
+            "problems": [
+                "Most users struggled to understand how the prompt's text related to the LLM's responses",
+                "Users often followed the LLM's suggestions verbatim, even if they were incorrect",
+                "Difficulties when using the LLM's advice for software tasks",
+                "Low task completion rates",
+                "Users remained unaware of inaccuracies in the LLM's responses",
+                "Gap between users' lack of software expertise and their ability to evaluate the LLM's assistance"
+            ],
+            "methods": [
+                "Investigated LLM-generated software guidance through a within-subject experiment with 16 participants and follow-up interviews",
+                "Compared a baseline LLM assistant with an LLM optimized for particular software contexts, SoftAIBot",
+                "Assessed task completion, perceived accuracy, relevance, and trust"
+            ],
+            "effects": [
+                "SoftAIBot outperformed the baseline LLM",
+                "No significant difference in LLM usage and user perceptions with or without prompt guidelines and the integration of domain context",
+                "Importance of incorporating explainable, context-aware cues into LLMs to help users understand prompt-based interactions, identify biases, and maximize the utility of LLM assistants"
+            ]
+        },
+        "Andrew Kean Gao": {},
+        "2023-07-19T07:17:43Z": {},
+        "On the Origin of LLMs: An Evolutionary Tree and Graph for 15,821 Large\n  Language Models": {
+            "field": "Large Language Models",
+            "problems": "Huge influx of LLMs with no comprehensive index available",
+            "methods": "Hierarchical clustering, n-grams, term frequency-inverse document frequency, and a public web application called Constellation",
+            "effects": "Successfully identify families of LLMs and accurately cluster LLMs into meaningful subgroups, and provide a variety of visualizations"
+        },
+        "Kai Shu": {},
+        "2023-11-09T00:05:27Z": {},
+        "Large Language Models, Misinformation Combat": {},
+        "Combating Misinformation in the Age of LLMs: Opportunities and\n  Challenges": {
+            "field": "Large Language Models, Misinformation Combat",
+            "problems": "Misinformation such as fake news and rumors, LLMs can be easily leveraged to generate deceptive misinformation at scale",
+            "methods": "Utilizing LLMs to combat misinformation, interdisciplinary efforts from different stakeholders",
+            "effects": "LLMs bring promising opportunities for combating misinformation due to their profound world knowledge and strong reasoning abilities"
+        },
+        "Min Zhang": {},
+        "2023-11-27T12:29:20Z": {},
+        "multimodal large language models": {},
+        "Towards Vision Enhancing LLMs: Empowering Multimodal Knowledge Storage\n  and Sharing in LLMs": {
+            "field": "multimodal large language models",
+            "problems": "current multimodal large language models predominantly map visual information into language representation space, neglecting the potential of harnessing visual knowledge to enhance overall capabilities of large language models",
+            "methods": "an approach called MKS2, which includes the Modular Visual Memory, a component integrated into the internal blocks of large language models, designed to store open-world visual information efficiently, and a soft Mixtures-of-Multimodal Experts architecture in large language models to invoke multimodal knowledge collaboration during generation",
+            "effects": "MKS2 substantially augments the reasoning capabilities of large language models in contexts necessitating physical or commonsense knowledge and delivers competitive results on multimodal benchmarks"
+        },
+        "Jae W. Lee": {},
+        "2024-02-16T09:06:06Z": {},
+        "Any-Precision LLM: Low-Cost Deployment of Multiple, Different-Sized LLMs": {
+            "field": "Large Language Models",
+            "problems": "Significant deployment costs due to large sizes of LLMs and costs associated with deploying multiple LLMs of varying sizes",
+            "methods": "Introduction of any-precision LLM, a lightweight method for any-precision quantization of LLMs, leveraging a post-training quantization framework, and development of a specialized software engine for efficient serving",
+            "effects": "Significant reduction in the high costs of deploying multiple, different-sized LLMs by overlaying LLMs quantized to varying bit-widths into a memory footprint comparable to a single n-bit LLM, with state-of-the-art model quality and inference throughput"
+        },
+        "Deyi Xiong": {},
+        "2024-02-28T03:38:20Z": {},
+        "Do Large Language Models Mirror Cognitive Language Processing?": {
+            "field": "Large Language Models",
+            "problems": "Understanding whether Large Language Models mirror cognitive language processing and to what extent they resemble cognitive language processing",
+            "methods": "Proposing a novel method that bridges between LLM representations and human cognition signals, employing Representational Similarity Analysis (RSA) to measure the alignment between 16 mainstream LLMs and fMRI signals of the brain, investigating the impact of a variety of factors (e.g., model scaling, alignment training, instruction appending) on such LLM-brain alignment",
+            "effects": "Model scaling is positively correlated with LLM-brain similarity, alignment training can significantly improve LLM-brain similarity, the performance of a wide range of LLM evaluations (e.g., MMLU, Chatbot Arena) is highly correlated with the LLM-brain similarity"
+        },
+        "Mi Zhang": {},
+        "2024-03-12T07:31:18Z": {},
+        "Large Language Models, Model Compression": {},
+        "SVD-LLM: Truncation-aware Singular Value Decomposition for Large\n  Language Model Compression": {
+            "field": "Large Language Models, Model Compression",
+            "problems": "Substantial sizes of Large Language Models hindering advancements, limitations of state-of-the-art SVD-based LLM compression methods including higher compression loss due to truncating smaller singular values and lack of update on the remaining model parameters after SVD truncation",
+            "methods": "SVD-LLM, a new SVD-based LLM compression method incorporating a truncation-aware data whitening strategy for direct mapping between singular values and compression loss, and a layer-wise closed-form model parameter update strategy to compensate for accuracy degradation caused by SVD truncation",
+            "effects": "Superior performance of SVD-LLM over state-of-the-art methods, especially at high model compression ratios"
+        },
+        "Ji-Rong Wen": {},
+        "2023-06-08T14:10:54Z": {},
+        "Large Language Models, Information Retrieval Systems": {},
+        "RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit": {
+            "field": "Large Language Models, Information Retrieval Systems",
+            "problems": "Large Language Models have a tendency to hallucinate and generate fictitious responses to user requests",
+            "methods": "Augmenting LLMs with information retrieval systems to generate more factual texts in response to user input, development of RETA-LLM toolkit to support research and development of retrieval-augmented LLM systems",
+            "effects": "Retrieval-augmented LLMs can answer in-domain questions that cannot be answered by solely relying on the world knowledge stored in parameters, RETA-LLM provides more plug-and-play modules to support better interaction between IR systems and LLMs"
+        },
+        "Yuning Mao": {},
+        "2023-11-13T19:13:29Z": {},
+        "MART: Improving LLM Safety with Multi-round Automatic Red-Teaming": {
+            "field": "Large Language Models",
+            "problems": "Unsafe behaviors in Large Language Models, costly manual red-teaming, automatic red-teaming discovers safety risks without addressing them",
+            "methods": "Multi-round Automatic Red-Teaming (MART) method, automatic adversarial prompt writing, safe response generation, iterative interplay between adversarial and target LLM, safety fine-tuning",
+            "effects": "Increased red-teaming scalability, improved safety of target LLM, reduction in violation rate of an LLM with limited safety alignment up to 84.7% after 4 rounds of MART, stable model helpfulness on non-adversarial prompts"
+        },
+        "Hiroki Sakaji": {},
+        "2023-05-22T04:59:33Z": {},
+        "llm-japanese-dataset v0: Construction of Japanese Chat Dataset for Large\n  Language Models and its Methodology": {
+            "field": "Large Language Models",
+            "problems": "High-performing LLMs are usually mainly for English, difficulties in constructing LLMs in languages other than English",
+            "methods": "Constructed a Japanese chat dataset for tuning LLMs, tuning an existing LLM using the constructed dataset",
+            "effects": "The dataset is possibly beneficial for LLMs"
+        },
+        "Xiaojun Wan": {},
+        "2023-10-25T03:58:49Z": {},
+        "Natural Language Generation, Large Language Models": {},
+        "A Comprehensive Evaluation of Constrained Text Generation for Large\n  Language Models": {
+            "field": "Natural Language Generation, Large Language Models",
+            "problems": "Integrating intricate constraints into neural text generation due to LLMs' opacity",
+            "methods": "Investigating constrained text generation for LLMs, where predefined constraints are applied during LLM's generation process. Examining multiple LLMs, including ChatGPT and GPT-4, categorizing constraints into lexical, structural, and relation-based types. Presenting various benchmarks to facilitate fair evaluation.",
+            "effects": "Illuminates LLMs' capacity and deficiency to incorporate constraints and provides insights for future developments in constrained text generation."
+        },
+        "Gagandeep Singh": {},
+        "2024-02-24T23:16:57Z": {},
+        "QuaCer-C: Quantitative Certification of Knowledge Comprehension in LLMs": {
+            "field": "Large Language Models",
+            "problems": "Traditional studies do not provide formal guarantees on the performance of LLMs",
+            "methods": "A novel certification framework for LLM, QuaCer-C, which formally certifies the knowledge-comprehension capabilities of popular LLMs",
+            "effects": "The knowledge comprehension capability improves with an increase in the number of parameters and the Mistral model is less performant than the rest in this evaluation"
+        },
+        "Jidong Ge": {},
+        "2023-09-28T09:35:59Z": {},
+        "LawBench: Benchmarking Legal Knowledge of Large Language Models": {
+            "field": "Large Language Models",
+            "problems": "Unclear how much legal knowledge LLMs possess and whether they can reliably perform legal-related tasks",
+            "methods": "Proposed a comprehensive evaluation benchmark LawBench, which assesses LLMs' legal capabilities from three cognitive levels: Legal knowledge memorization, understanding, and applying. LawBench contains 20 diverse tasks covering 5 task types: single-label classification, multi-label classification, regression, extraction and generation. Extensive evaluations of 51 LLMs on LawBench, including 20 multilingual LLMs, 22 Chinese-oriented LLMs and 9 legal specific LLMs.",
+            "effects": "GPT-4 remains the best-performing LLM in the legal domain, surpassing the others by a significant margin. Fine-tuning LLMs on legal specific text brings certain improvements, but we are still a long way from obtaining usable and reliable LLMs in legal tasks."
+        },
+        "Simerjot Kaur": {},
+        "2024-02-22T18:57:20Z": {},
+        "Identifying Multiple Personalities in Large Language Models with\n  External Evaluation": {
+            "field": "Large Language Models",
+            "problems": "Societal and ethical concerns regarding the behavior of LLMs, reliability of self-assessment tests for analyzing LLMs' personalities",
+            "methods": "External evaluation method for personality measurement, fine-tuning a Llama2-7B model as the MBTI personality predictor, prompting LLMs with situational questions and asking them to generate Twitter posts and comments",
+            "effects": "LLMs can exhibit different personalities based on different scenarios, which is a fundamental difference between personality in LLMs and humans"
+        },
+        "Depei Qian": {},
+        "2024-02-24T01:45:35Z": {},
+        "Minions: Accelerating Large Language Model Inference with Adaptive and\n  Collective Speculative Decoding": {
+            "field": "Large Language Models",
+            "problems": [
+                "Enabling efficient LLM inference is challenging due to its autoregressive decoding that generates tokens only one at a time",
+                "Research works apply pruning or quantization to speed up LLM inference, but they typically require fine-tuning the LLM, incurring significant time and economic costs",
+                "The low acceptance rate of small speculative models (SSMs) and the high verification cost of LLM prohibit further performance improvement of inference"
+            ],
+            "methods": [
+                "Minions, an LLM inference system that accelerates LLM inference with a collective and adaptive speculative generation",
+                "A majority-voted mechanism to leverage multiple SSMs to jointly speculate the outputs of LLM",
+                "An adaptive mechanism to dynamically determine the optimal speculation length of SSM",
+                "Decouples the SSM decoding and LLM verification efficiently and adopts a pipelined execution mechanism"
+            ],
+            "effects": [
+                "Improves the inference performance without introducing prohibitive computation costs for LLM",
+                "Can achieve better inference performance across different models, datasets, and hyper-parameters",
+                "Can achieve higher inference throughput and lower inference time"
+            ]
+        }
+    }
+}

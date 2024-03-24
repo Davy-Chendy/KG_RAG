@@ -1,0 +1,1999 @@
+{
+    "edges": [
+        [
+            "Maximum Entropy RL (Provably) Solves Some Robust RL Problems",
+            "author",
+            "Benjamin Eysenbach, Sergey Levine"
+        ],
+        [
+            "Maximum Entropy RL (Provably) Solves Some Robust RL Problems",
+            "published",
+            "2021-03-10T18:45:48Z"
+        ],
+        [
+            "Maximum Entropy RL (Provably) Solves Some Robust RL Problems",
+            "field",
+            "reinforcement learning"
+        ],
+        [
+            "Maximum Entropy RL (Provably) Solves Some Robust RL Problems",
+            "problems",
+            "disturbances to the dynamics or reward function, lack of rigorous proof and theoretical characterization of the MaxEnt RL robust set"
+        ],
+        [
+            "Maximum Entropy RL (Provably) Solves Some Robust RL Problems",
+            "methods",
+            "maximum entropy (MaxEnt) RL, robust RL algorithms"
+        ],
+        [
+            "Maximum Entropy RL (Provably) Solves Some Robust RL Problems",
+            "effects",
+            "maximizing a lower bound on a robust RL objective, learning policies that are robust to some disturbances, providing rigorous proof and theoretical characterization of the MaxEnt RL robust set, being a simple robust RL method with appealing formal guarantees"
+        ],
+        [
+            "Understanding the Synergies between Quality-Diversity and Deep\n  Reinforcement Learning",
+            "author",
+            "Bryan Lim, Manon Flageat, Antoine Cully"
+        ],
+        [
+            "Understanding the Synergies between Quality-Diversity and Deep\n  Reinforcement Learning",
+            "published",
+            "2023-03-10T19:02:42Z"
+        ],
+        [
+            "Understanding the Synergies between Quality-Diversity and Deep\n  Reinforcement Learning",
+            "problems",
+            "Quality-Diversity, Deep Reinforcement Learning, hybrid QD-RL algorithms, TD3 algorithm, optimization procedures between QD and RL"
+        ],
+        [
+            "Understanding the Synergies between Quality-Diversity and Deep\n  Reinforcement Learning",
+            "methods",
+            "Generalized Actor-Critic QD-RL, modular framework, actor-critic deep RL methods, PGA-ME (SAC), PGA-ME (DroQ)"
+        ],
+        [
+            "Understanding the Synergies between Quality-Diversity and Deep\n  Reinforcement Learning",
+            "effects",
+            "solving the humanoid environment, demonstrating that the actor-critic models in QD-RL are generally insufficiently trained, achieving performance gains without any additional environment evaluations."
+        ],
+        [
+            "RL$^3$: Boosting Meta Reinforcement Learning via RL inside RL$^2$",
+            "author",
+            "Abhinav Bhatia, Samer B. Nashed, Shlomo Zilberstein"
+        ],
+        [
+            "RL$^3$: Boosting Meta Reinforcement Learning via RL inside RL$^2$",
+            "published",
+            "2023-06-28T04:16:16Z"
+        ],
+        [
+            "RL$^3$: Boosting Meta Reinforcement Learning via RL inside RL$^2$",
+            "problems",
+            "data-efficient RL algorithms, long-horizon tasks, out-of-distribution tasks"
+        ],
+        [
+            "RL$^3$: Boosting Meta Reinforcement Learning via RL inside RL$^2$",
+            "methods",
+            "meta-RL, recurrent neural networks, value functions, traditional RL, task-specific action-values, RL$^3$"
+        ],
+        [
+            "RL$^3$: Boosting Meta Reinforcement Learning via RL inside RL$^2$",
+            "effects",
+            "improved cumulative reward on long-horizon and out-of-distribution tasks, maintaining efficiency in the short term"
+        ],
+        [
+            "A Simple Reward-free Approach to Constrained Reinforcement Learning",
+            "author",
+            "Sobhan Miryoosefi, Chi Jin"
+        ],
+        [
+            "A Simple Reward-free Approach to Constrained Reinforcement Learning",
+            "published",
+            "2021-07-12T06:27:30Z"
+        ],
+        [
+            "A Simple Reward-free Approach to Constrained Reinforcement Learning",
+            "problems",
+            "constrained reinforcement learning, reward-free RL"
+        ],
+        [
+            "A Simple Reward-free Approach to Constrained Reinforcement Learning",
+            "methods",
+            "meta-algorithm, reward-free RL oracle, sample complexity, tabular MDP setting, linear function approximation"
+        ],
+        [
+            "A Simple Reward-free Approach to Constrained Reinforcement Learning",
+            "effects",
+            "solving approachability and constrained RL problems, providing sharp sample complexity results, extending to tabular two-player Markov games"
+        ],
+        [
+            "How Does Value Distribution in Distributional Reinforcement Learning\n  Help Optimization?",
+            "author",
+            "Ke Sun, Bei Jiang, Linglong Kong"
+        ],
+        [
+            "How Does Value Distribution in Distributional Reinforcement Learning\n  Help Optimization?",
+            "published",
+            "2022-09-29T02:18:31Z"
+        ],
+        [
+            "How Does Value Distribution in Distributional Reinforcement Learning\n  Help Optimization?",
+            "problems",
+            "optimization benefits of distributional reinforcement learning, understanding of how the value distribution in distributional RL works"
+        ],
+        [
+            "How Does Value Distribution in Distributional Reinforcement Learning\n  Help Optimization?",
+            "methods",
+            "leverage additional value distribution information over classical RL in the Neural Fitted Z-Iteration (Neural FZI) framework, decomposing the return distribution"
+        ],
+        [
+            "How Does Value Distribution in Distributional Reinforcement Learning\n  Help Optimization?",
+            "effects",
+            "stable optimization behaviors of distributional RL, acceleration effect of distributional RL"
+        ],
+        [
+            "Abstracted Trajectory Visualization for Explainability in Reinforcement\n  Learning",
+            "author",
+            "Yoshiki Takagi, Roderick Tabalba, Nurit Kirshenbaum, Jason Leigh"
+        ],
+        [
+            "Abstracted Trajectory Visualization for Explainability in Reinforcement\n  Learning",
+            "published",
+            "2024-02-05T21:17:44Z"
+        ],
+        [
+            "Abstracted Trajectory Visualization for Explainability in Reinforcement\n  Learning",
+            "problems",
+            "difficulty for non-RL experts to understand and participate in discussions about RL models, lack of communication between RL and non-RL experts in creating machine learning solutions"
+        ],
+        [
+            "Abstracted Trajectory Visualization for Explainability in Reinforcement\n  Learning",
+            "methods",
+            "using abstracted trajectories to depict transitions between major states of RL model, visualizing these trajectories to help non-RL experts build a mental model of the agent"
+        ],
+        [
+            "Abstracted Trajectory Visualization for Explainability in Reinforcement\n  Learning",
+            "effects",
+            "early results suggest that this approach can help non-RL experts infer behavior patterns of RL"
+        ],
+        [
+            "Causal Counterfactuals for Improving the Robustness of Reinforcement\n  Learning",
+            "author",
+            "Tom He, Jasmina Gajcin, Ivana Dusparic"
+        ],
+        [
+            "Causal Counterfactuals for Improving the Robustness of Reinforcement\n  Learning",
+            "published",
+            "2022-11-02T13:51:00Z"
+        ],
+        [
+            "Causal Counterfactuals for Improving the Robustness of Reinforcement\n  Learning",
+            "problems",
+            "limited research in Causal RL, existing solutions are usually not complete or feasible for real-world applications"
+        ],
+        [
+            "Causal Counterfactuals for Improving the Robustness of Reinforcement\n  Learning",
+            "methods",
+            "propose CausalCF, the first complete Causal RL solution incorporating ideas from Causal Curiosity and CoPhy. Causal Curiosity provides an approach for using interventions, and CoPhy is modified to enable the RL agent to perform counterfactuals."
+        ],
+        [
+            "Causal Counterfactuals for Improving the Robustness of Reinforcement\n  Learning",
+            "effects",
+            "apply CausalCF to complex robotic tasks and show that it improves the RL agent's robustness using CausalWorld."
+        ],
+        [
+            "RL agents Implicitly Learning Human Preferences",
+            "author",
+            "Nevan Wichers"
+        ],
+        [
+            "RL agents Implicitly Learning Human Preferences",
+            "published",
+            "2020-02-14T17:42:50Z"
+        ],
+        [
+            "RL agents Implicitly Learning Human Preferences",
+            "problems",
+            "RL agents not fulfilling human preferences"
+        ],
+        [
+            "RL agents Implicitly Learning Human Preferences",
+            "methods",
+            "training a classifier to predict human preferences based on RL agent's neural network activations, comparing performance with classifier trained on raw environment state and activations from an autoencoder, using the human preference classifier as the reward function of an RL agent"
+        ],
+        [
+            "RL agents Implicitly Learning Human Preferences",
+            "effects",
+            "improving the ability of RL agents to fulfill human preferences"
+        ],
+        [
+            "Rethinking Model-based, Policy-based, and Value-based Reinforcement\n  Learning via the Lens of Representation Complexity",
+            "author",
+            "Guhao Feng, Han Zhong"
+        ],
+        [
+            "Rethinking Model-based, Policy-based, and Value-based Reinforcement\n  Learning via the Lens of Representation Complexity",
+            "published",
+            "2023-12-28T18:59:49Z"
+        ],
+        [
+            "Rethinking Model-based, Policy-based, and Value-based Reinforcement\n  Learning via the Lens of Representation Complexity",
+            "problems",
+            "representation complexity in different rl paradigms"
+        ],
+        [
+            "Rethinking Model-based, Policy-based, and Value-based Reinforcement\n  Learning via the Lens of Representation Complexity",
+            "methods",
+            "analysis of markov decision processes, constant-depth circuits, multi-layer perceptrons"
+        ],
+        [
+            "Rethinking Model-based, Policy-based, and Value-based Reinforcement\n  Learning via the Lens of Representation Complexity",
+            "effects",
+            "discovery of a hierarchy of representation complexity in rl paradigms, showing that representing the model is easier than representing the optimal policy, which is in turn easier than representing the optimal value function"
+        ],
+        [
+            "Unentangled quantum reinforcement learning agents in the OpenAI Gym",
+            "author",
+            "Jen-Yueh Hsiao, Yuxuan Du, Wei-Yin Chiang, Min-Hsiu Hsieh, Hsi-Sheng Goan"
+        ],
+        [
+            "Unentangled quantum reinforcement learning agents in the OpenAI Gym",
+            "published",
+            "2022-03-27T16:59:06Z"
+        ],
+        [
+            "Unentangled quantum reinforcement learning agents in the OpenAI Gym",
+            "field",
+            "quantum reinforcement learning"
+        ],
+        [
+            "Unentangled quantum reinforcement learning agents in the OpenAI Gym",
+            "problems",
+            "sample efficiency in reinforcement learning"
+        ],
+        [
+            "Unentangled quantum reinforcement learning agents in the OpenAI Gym",
+            "methods",
+            "using quantum circuits and classical neural networks to train an agent"
+        ],
+        [
+            "Unentangled quantum reinforcement learning agents in the OpenAI Gym",
+            "effects",
+            "improved sample efficiency compared to classical RL, ability to complete tasks with fewer trainable parameters"
+        ],
+        [
+            "Offline Reinforcement Learning for Wireless Network Optimization with\n  Mixture Datasets",
+            "author",
+            "Kun Yang, Cong Shen, Jing Yang, Shu-ping Yeh, Jerry Sydir"
+        ],
+        [
+            "Offline Reinforcement Learning for Wireless Network Optimization with\n  Mixture Datasets",
+            "published",
+            "2023-11-19T21:02:17Z"
+        ],
+        [
+            "Offline Reinforcement Learning for Wireless Network Optimization with\n  Mixture Datasets",
+            "problems",
+            "radio resource management, exploration, suboptimal behavior policies"
+        ],
+        [
+            "Offline Reinforcement Learning for Wireless Network Optimization with\n  Mixture Datasets",
+            "methods",
+            "offline RL algorithms (BCQ, CQL, IQL), data collection using behavior policies, mixture of datasets"
+        ],
+        [
+            "Offline Reinforcement Learning for Wireless Network Optimization with\n  Mixture Datasets",
+            "effects",
+            "improvement in RL policy optimization"
+        ],
+        [
+            "RL-Scope: Cross-Stack Profiling for Deep Reinforcement Learning\n  Workloads",
+            "author",
+            "James Gleeson, Srivatsan Krishnan, Moshe Gabel, Vijay Janapa Reddi, Eyal de Lara, Gennady Pekhimenko"
+        ],
+        [
+            "RL-Scope: Cross-Stack Profiling for Deep Reinforcement Learning\n  Workloads",
+            "published",
+            "2021-02-08T15:42:48Z"
+        ],
+        [
+            "RL-Scope: Cross-Stack Profiling for Deep Reinforcement Learning\n  Workloads",
+            "problems",
+            "system-level bottlenecks in RL workloads are poorly understood; fundamental structural differences in RL workloads that make them inherently less GPU-bound than supervised learning (SL)"
+        ],
+        [
+            "RL-Scope: Cross-Stack Profiling for Deep Reinforcement Learning\n  Workloads",
+            "methods",
+            "propose RL-Scope, a cross-stack profiler that scopes low-level CPU/GPU resource usage to high-level algorithmic operations, and provides accurate insights by correcting for profiling overhead."
+        ],
+        [
+            "RL-Scope: Cross-Stack Profiling for Deep Reinforcement Learning\n  Workloads",
+            "effects",
+            "explain where training time is spent in RL workloads, we survey RL workloads across its major dimensions including ML backend, RL algorithm, and simulator."
+        ],
+        [
+            "Vulnerability-Aware Poisoning Mechanism for Online RL with Unknown\n  Dynamics",
+            "author",
+            "Yanchao Sun, Da Huo, Furong Huang"
+        ],
+        [
+            "Vulnerability-Aware Poisoning Mechanism for Online RL with Unknown\n  Dynamics",
+            "published",
+            "2020-09-02T01:43:30Z"
+        ],
+        [
+            "Vulnerability-Aware Poisoning Mechanism for Online RL with Unknown\n  Dynamics",
+            "problems",
+            "poisoning attacks on rl systems"
+        ],
+        [
+            "Vulnerability-Aware Poisoning Mechanism for Online RL with Unknown\n  Dynamics",
+            "methods",
+            "generic poisoning framework, vulnerability-aware adversarial critic poison (va2c-p)"
+        ],
+        [
+            "Vulnerability-Aware Poisoning Mechanism for Online RL with Unknown\n  Dynamics",
+            "effects",
+            "prevents agents from learning a good policy or teaches them to converge to a target policy with a limited attacking budget."
+        ],
+        [
+            "Assured Learning-enabled Autonomy: A Metacognitive Reinforcement\n  Learning Framework",
+            "author",
+            "Aquib Mustafa, Majid Mazouchi, Subramanya Nageshrao, Hamidreza Modares"
+        ],
+        [
+            "Assured Learning-enabled Autonomy: A Metacognitive Reinforcement\n  Learning Framework",
+            "published",
+            "2021-03-23T14:01:35Z"
+        ],
+        [
+            "Assured Learning-enabled Autonomy: A Metacognitive Reinforcement\n  Learning Framework",
+            "problems",
+            "safety constraints, uncertain systems"
+        ],
+        [
+            "Assured Learning-enabled Autonomy: A Metacognitive Reinforcement\n  Learning Framework",
+            "methods",
+            "metacognitive learning, adapting reward function parameters, Bayesian RL algorithm"
+        ],
+        [
+            "Assured Learning-enabled Autonomy: A Metacognitive Reinforcement\n  Learning Framework",
+            "effects",
+            "guaranteed safety, performance assurance, satisfaction of safety constraints"
+        ],
+        [
+            "A Review of Safe Reinforcement Learning: Methods, Theory and\n  Applications",
+            "author",
+            "Shangding Gu, Long Yang, Yali Du, Guang Chen, Florian Walter, Jun Wang, Yaodong Yang, Alois Knoll"
+        ],
+        [
+            "A Review of Safe Reinforcement Learning: Methods, Theory and\n  Applications",
+            "published",
+            "2022-05-20T17:42:38Z"
+        ],
+        [
+            "A Review of Safe Reinforcement Learning: Methods, Theory and\n  Applications",
+            "problems",
+            "safety concerns in deploying RL in the real world"
+        ],
+        [
+            "A Review of Safe Reinforcement Learning: Methods, Theory and\n  Applications",
+            "methods",
+            "review of progress of safe RL from five dimensions, analysis of theory and algorithm progress, sample complexity of safe RL methods, applications and benchmarks of safe RL algorithms"
+        ],
+        [
+            "A Review of Safe Reinforcement Learning: Methods, Theory and\n  Applications",
+            "effects",
+            "hope to inspire more future research on safe RL, release of a benchmark suite and open-sourced repository containing implementations of major safe RL algorithms"
+        ],
+        [
+            "Reincarnating Reinforcement Learning: Reusing Prior Computation to\n  Accelerate Progress",
+            "author",
+            "Rishabh Agarwal, Max Schwarzer, Pablo Samuel Castro, Aaron Courville, Marc G. Bellemare"
+        ],
+        [
+            "Reincarnating Reinforcement Learning: Reusing Prior Computation to\n  Accelerate Progress",
+            "published",
+            "2022-06-03T15:11:10Z"
+        ],
+        [
+            "Reincarnating Reinforcement Learning: Reusing Prior Computation to\n  Accelerate Progress",
+            "problems",
+            "inefficiency of deep RL, prohibitively expensive re-training, computationally-demanding problems"
+        ],
+        [
+            "Reincarnating Reinforcement Learning: Reusing Prior Computation to\n  Accelerate Progress",
+            "methods",
+            "reincarnating RL, transferring learned policies, standalone value-based RL agent, simple algorithm"
+        ],
+        [
+            "Reincarnating Reinforcement Learning: Reusing Prior Computation to\n  Accelerate Progress",
+            "effects",
+            "efficiency gains, improved real-world RL adoption, democratization of RL"
+        ],
+        [
+            "If MaxEnt RL is the Answer, What is the Question?",
+            "published",
+            "2019-10-04T12:50:34Z"
+        ],
+        [
+            "If MaxEnt RL is the Answer, What is the Question?",
+            "problems",
+            "maximizing expected utility, variability in reward function, control problems, partially observable Markov decision processes (POMDPs)"
+        ],
+        [
+            "If MaxEnt RL is the Answer, What is the Question?",
+            "methods",
+            "maximum entropy reinforcement learning (MaxEnt RL), two-player game approach"
+        ],
+        [
+            "If MaxEnt RL is the Answer, What is the Question?",
+            "effects",
+            "provides insight into the types of problems suitable for MaxEnt RL, suggests domains with uncertainty in the task goal may be well-suited for MaxEnt RL methods"
+        ],
+        [
+            "Complementary reinforcement learning towards explainable agents",
+            "author",
+            "Jung Hoon Lee"
+        ],
+        [
+            "Complementary reinforcement learning towards explainable agents",
+            "published",
+            "2019-01-01T18:14:35Z"
+        ],
+        [
+            "Complementary reinforcement learning towards explainable agents",
+            "problems",
+            "decision-making of neural network-based RL agents is incomprehensible"
+        ],
+        [
+            "Complementary reinforcement learning towards explainable agents",
+            "methods",
+            "derive a secondary comprehensible agent from a NN-based RL agent whose decision-makings are based on simple rules"
+        ],
+        [
+            "Complementary reinforcement learning towards explainable agents",
+            "effects",
+            "empirical evaluation supports the possibility of building a comprehensible and transparent agent using a NN-based RL agent"
+        ],
+        [
+            "A Minimalist Approach to Offline Reinforcement Learning",
+            "author",
+            "Scott Fujimoto, Shixiang Shane Gu"
+        ],
+        [
+            "A Minimalist Approach to Offline Reinforcement Learning",
+            "published",
+            "2021-06-12T20:38:59Z"
+        ],
+        [
+            "A Minimalist Approach to Offline Reinforcement Learning",
+            "problems",
+            "offline reinforcement learning, errors in value estimation, out-of-distribution actions"
+        ],
+        [
+            "A Minimalist Approach to Offline Reinforcement Learning",
+            "methods",
+            "constraining or regularizing the policy, adding a behavior cloning term to the policy update, normalizing the data"
+        ],
+        [
+            "A Minimalist Approach to Offline Reinforcement Learning",
+            "effects",
+            "matching the performance of state-of-the-art offline RL algorithms, simplifying implementation and tuning, reducing computational overhead"
+        ],
+        [
+            "Policy Gradient for Reinforcement Learning with General Utilities",
+            "author",
+            "Navdeep Kumar, Kaixin Wang, Kfir Levy, Shie Mannor"
+        ],
+        [
+            "Policy Gradient for Reinforcement Learning with General Utilities",
+            "published",
+            "2022-10-03T14:57:46Z"
+        ],
+        [
+            "Policy Gradient for Reinforcement Learning with General Utilities",
+            "problems",
+            "RL with non-linear utilities"
+        ],
+        [
+            "Policy Gradient for Reinforcement Learning with General Utilities",
+            "methods",
+            "policy gradient theorem, value iteration, policy gradient, dynamic programming"
+        ],
+        [
+            "Policy Gradient for Reinforcement Learning with General Utilities",
+            "effects",
+            "discovering an optimal policy that maximizes the expected cumulative rewards"
+        ],
+        [
+            "A Survey of Large Language Models for Code: Evolution, Benchmarking, and\n  Future Trends",
+            "author",
+            "Zibin Zheng, Kaiwen Ning, Yanlin Wang, Jingwen Zhang, Dewu Zheng, Mingxi Ye, Jiachi Chen"
+        ],
+        [
+            "A Survey of Large Language Models for Code: Evolution, Benchmarking, and\n  Future Trends",
+            "published",
+            "2023-11-17T07:55:16Z"
+        ],
+        [
+            "A Survey of Large Language Models for Code: Evolution, Benchmarking, and\n  Future Trends",
+            "field",
+            "large language models"
+        ],
+        [
+            "A Survey of Large Language Models for Code: Evolution, Benchmarking, and\n  Future Trends",
+            "problems",
+            "lack of systematic investigation into Code LLMs and their performance."
+        ],
+        [
+            "A Survey of Large Language Models for Code: Evolution, Benchmarking, and\n  Future Trends",
+            "methods",
+            "survey and analysis of the types of Code LLMs and their differences in performance compared to general LLMs."
+        ],
+        [
+            "A Survey of Large Language Models for Code: Evolution, Benchmarking, and\n  Future Trends",
+            "effects",
+            "assists developers of Code LLMs in choosing base models for the development of more advanced LLMs but also provides insights for practitioners to better understand key improvement directions for Code LLMs."
+        ],
+        [
+            "TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for\n  Time Series",
+            "author",
+            "Chenxi Sun, Hongyan Li, Yaliang Li, Shenda Hong"
+        ],
+        [
+            "TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for\n  Time Series",
+            "published",
+            "2023-08-16T09:16:02Z"
+        ],
+        [
+            "TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for\n  Time Series",
+            "problems",
+            "time-series tasks, lack of data, limited resources, semantic context requirements"
+        ],
+        [
+            "TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for\n  Time Series",
+            "methods",
+            "TS-for-LLM, TEST method, tokenization, instance-wise contrast, feature-wise contrast, text-prototype-aligned contrast, soft prompts, frozen LLM"
+        ],
+        [
+            "TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for\n  Time Series",
+            "effects",
+            "better or comparable performance compared to SOTA TS models, few-shot and generalization capabilities, ability to process TS data without compromising language ability"
+        ],
+        [
+            "Benchmarking LLMs via Uncertainty Quantification",
+            "author",
+            "Fanghua Ye, Mingming Yang, Jianhui Pang, Longyue Wang, Derek F. Wong, Emine Yilmaz, Shuming Shi, Zhaopeng Tu"
+        ],
+        [
+            "Benchmarking LLMs via Uncertainty Quantification",
+            "published",
+            "2024-01-23T14:29:17Z"
+        ],
+        [
+            "Benchmarking LLMs via Uncertainty Quantification",
+            "problems",
+            "comprehensive evaluation methods for LLMs, lack of uncertainty quantification in current evaluation platforms"
+        ],
+        [
+            "Benchmarking LLMs via Uncertainty Quantification",
+            "methods",
+            "introducing a new benchmarking approach for LLMs that integrates uncertainty quantification, examining eight LLMs across five NLP tasks, introducing an uncertainty-aware evaluation metric called UAcc"
+        ],
+        [
+            "Benchmarking LLMs via Uncertainty Quantification",
+            "effects",
+            "\u63ed\u793a\u4e86LLMs\u7684\u51e0\u4e2a\u91cd\u8981\u6027\u8d28\uff1a\u9ad8\u51c6\u786e\u5ea6\u7684LLM\u53ef\u80fd\u8868\u73b0\u51fa\u8f83\u4f4e\u7684\u786e\u5b9a\u6027\uff1b\u8f83\u5927\u89c4\u6a21\u7684LLM\u53ef\u80fd\u6bd4\u8f83\u5c0f\u7684LLM\u8868\u73b0\u51fa\u66f4\u5927\u7684\u4e0d\u786e\u5b9a\u6027\uff1b\u6307\u4ee4\u5fae\u8c03\u5f80\u5f80\u4f1a\u589e\u52a0LLM\u7684\u4e0d\u786e\u5b9a\u6027\u3002UAcc\u6307\u6807\u53ef\u4ee5\u653e\u5927\u6216\u7f29\u5c0f\u4e00\u4e2aLLM\u76f8\u5bf9\u4e8e\u53e6\u4e00\u4e2aLLM\u7684\u76f8\u5bf9\u6539\u8fdb\uff0c\u5e76\u4e14\u751a\u81f3\u53ef\u4ee5\u6539\u53d8\u4e24\u4e2aLLM\u7684\u76f8\u5bf9\u6392\u540d\u3002\u8fd9\u4e9b\u7ed3\u679c\u5f3a\u8c03\u4e86\u5728LLM\u8bc4\u4f30\u4e2d\u8003\u8651\u4e0d\u786e\u5b9a\u6027\u7684\u610f\u4e49\u3002"
+        ],
+        [
+            "Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on\n  Zero-shot LLM Assessment",
+            "author",
+            "Vyas Raina, Adian Liusie, Mark Gales"
+        ],
+        [
+            "Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on\n  Zero-shot LLM Assessment",
+            "published",
+            "2024-02-21T18:55:20Z"
+        ],
+        [
+            "Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on\n  Zero-shot LLM Assessment",
+            "problems",
+            "adversarial vulnerability, reliability of LLMs-as-a-judge methods"
+        ],
+        [
+            "Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on\n  Zero-shot LLM Assessment",
+            "methods",
+            "append short universal phrases to texts, concatenate attacks, transferability analysis"
+        ],
+        [
+            "Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on\n  Zero-shot LLM Assessment",
+            "effects",
+            "deceive LLMs to provide high assessment scores, pervasive nature of the adversarial vulnerabilities across different judge-LLM sizes, families and methods, significant concerns on the reliability of LLMs-as-a-judge methods"
+        ],
+        [
+            "MEGAnno+: A Human-LLM Collaborative Annotation System",
+            "author",
+            "Hannah Kim, Kushan Mitra, Rafael Li Chen, Sajjadur Rahman, Dan Zhang"
+        ],
+        [
+            "MEGAnno+: A Human-LLM Collaborative Annotation System",
+            "published",
+            "2024-02-28T04:58:07Z"
+        ],
+        [
+            "MEGAnno+: A Human-LLM Collaborative Annotation System",
+            "problems",
+            "understanding of complex, sociocultural, or domain-specific context potentially leading to incorrect annotations."
+        ],
+        [
+            "MEGAnno+: A Human-LLM Collaborative Annotation System",
+            "methods",
+            "a collaborative approach where humans and LLMs work together to produce reliable and high-quality labels. MEGAnno+, a human-LLM collaborative annotation system that offers effective LLM agent and annotation management, convenient and robust LLM annotation, and exploratory verification of LLM labels by humans."
+        ],
+        [
+            "MEGAnno+: A Human-LLM Collaborative Annotation System",
+            "effects",
+            "faster and cheaper labeling for various NLP tasks."
+        ],
+        [
+            "Why and When LLM-Based Assistants Can Go Wrong: Investigating the\n  Effectiveness of Prompt-Based Interactions for Software Help-Seeking",
+            "author",
+            "Anjali Khurana, Hari Subramonyam, Parmit K Chilana"
+        ],
+        [
+            "Why and When LLM-Based Assistants Can Go Wrong: Investigating the\n  Effectiveness of Prompt-Based Interactions for Software Help-Seeking",
+            "published",
+            "2024-02-12T19:49:58Z"
+        ],
+        [
+            "Why and When LLM-Based Assistants Can Go Wrong: Investigating the\n  Effectiveness of Prompt-Based Interactions for Software Help-Seeking",
+            "problems",
+            "users struggle to understand how the prompt's text relates to the LLM's responses, leading to low task completion rates; users remain unaware of inaccuracies in the LLM's responses"
+        ],
+        [
+            "Why and When LLM-Based Assistants Can Go Wrong: Investigating the\n  Effectiveness of Prompt-Based Interactions for Software Help-Seeking",
+            "methods",
+            "within-subject experiment with 16 participants and follow-up interviews; comparing a baseline LLM assistant with an LLM optimized for particular software contexts, SoftAIBot, which also offered guidelines for constructing appropriate prompts"
+        ],
+        [
+            "Why and When LLM-Based Assistants Can Go Wrong: Investigating the\n  Effectiveness of Prompt-Based Interactions for Software Help-Seeking",
+            "effects",
+            "no significant difference in LLM usage and user perceptions with or without prompt guidelines and the integration of domain context; SoftAIBot outperformed the baseline LLM"
+        ],
+        [
+            "On the Origin of LLMs: An Evolutionary Tree and Graph for 15,821 Large\n  Language Models",
+            "author",
+            "Sarah Gao, Andrew Kean Gao"
+        ],
+        [
+            "On the Origin of LLMs: An Evolutionary Tree and Graph for 15,821 Large\n  Language Models",
+            "published",
+            "2023-07-19T07:17:43Z"
+        ],
+        [
+            "On the Origin of LLMs: An Evolutionary Tree and Graph for 15,821 Large\n  Language Models",
+            "field",
+            "Large Language Models"
+        ],
+        [
+            "On the Origin of LLMs: An Evolutionary Tree and Graph for 15,821 Large\n  Language Models",
+            "problems",
+            "Lack of comprehensive index of LLMs available"
+        ],
+        [
+            "On the Origin of LLMs: An Evolutionary Tree and Graph for 15,821 Large\n  Language Models",
+            "methods",
+            "Hierarchical clustering using n-grams and term frequency-inverse document frequency"
+        ],
+        [
+            "On the Origin of LLMs: An Evolutionary Tree and Graph for 15,821 Large\n  Language Models",
+            "effects",
+            "Successful identification of families of LLMs and accurate clustering of LLMs into meaningful subgroups; development of a public web application called Constellation for navigating and exploring LLMs."
+        ],
+        [
+            "Combating Misinformation in the Age of LLMs: Opportunities and\n  Challenges",
+            "author",
+            "Canyu Chen, Kai Shu"
+        ],
+        [
+            "Combating Misinformation in the Age of LLMs: Opportunities and\n  Challenges",
+            "published",
+            "2023-11-09T00:05:27Z"
+        ],
+        [
+            "Combating Misinformation in the Age of LLMs: Opportunities and\n  Challenges",
+            "problems",
+            "misinformation, fake news, rumors, combating misinformation, LLM-generated misinformation"
+        ],
+        [
+            "Combating Misinformation in the Age of LLMs: Opportunities and\n  Challenges",
+            "methods",
+            "profound world knowledge, strong reasoning abilities, systematic review, current efforts, interdisciplinary efforts"
+        ],
+        [
+            "Combating Misinformation in the Age of LLMs: Opportunities and\n  Challenges",
+            "effects",
+            "reshaping the landscape of combating misinformation, generating deceptive misinformation at scale, facilitating the progress of utilizing LLMs for fighting misinformation, calling for interdisciplinary efforts"
+        ],
+        [
+            "Towards Vision Enhancing LLMs: Empowering Multimodal Knowledge Storage\n  and Sharing in LLMs",
+            "author",
+            "Yunxin Li, Baotian Hu, Wei Wang, Xiaochun Cao, Min Zhang"
+        ],
+        [
+            "Towards Vision Enhancing LLMs: Empowering Multimodal Knowledge Storage\n  and Sharing in LLMs",
+            "published",
+            "2023-11-27T12:29:20Z"
+        ],
+        [
+            "Towards Vision Enhancing LLMs: Empowering Multimodal Knowledge Storage\n  and Sharing in LLMs",
+            "problems",
+            "lack of visual knowledge enhancement in MLLMs"
+        ],
+        [
+            "Towards Vision Enhancing LLMs: Empowering Multimodal Knowledge Storage\n  and Sharing in LLMs",
+            "methods",
+            "introducing modular visual memory and mixtures-of-multimodal experts architecture"
+        ],
+        [
+            "Towards Vision Enhancing LLMs: Empowering Multimodal Knowledge Storage\n  and Sharing in LLMs",
+            "effects",
+            "substantial augmentation of reasoning capabilities in LLMs and competitive performance on multimodal benchmarks."
+        ],
+        [
+            "Any-Precision LLM: Low-Cost Deployment of Multiple, Different-Sized LLMs",
+            "author",
+            "Yeonhong Park, Jake Hyun, SangLyul Cho, Bonggeun Sim, Jae W. Lee"
+        ],
+        [
+            "Any-Precision LLM: Low-Cost Deployment of Multiple, Different-Sized LLMs",
+            "published",
+            "2024-02-16T09:06:06Z"
+        ],
+        [
+            "Any-Precision LLM: Low-Cost Deployment of Multiple, Different-Sized LLMs",
+            "problems",
+            "deployment costs of multiple large language models"
+        ],
+        [
+            "Any-Precision LLM: Low-Cost Deployment of Multiple, Different-Sized LLMs",
+            "methods",
+            "any-precision quantization of large language models, post-training quantization framework, specialized software engine"
+        ],
+        [
+            "Any-Precision LLM: Low-Cost Deployment of Multiple, Different-Sized LLMs",
+            "effects",
+            "reduces deployment costs, overlays multiple models into a single memory footprint, maintains state-of-the-art model quality and inference throughput"
+        ],
+        [
+            "Do Large Language Models Mirror Cognitive Language Processing?",
+            "author",
+            "Yuqi Ren, Renren Jin, Tongxuan Zhang, Deyi Xiong"
+        ],
+        [
+            "Do Large Language Models Mirror Cognitive Language Processing?",
+            "published",
+            "2024-02-28T03:38:20Z"
+        ],
+        [
+            "Do Large Language Models Mirror Cognitive Language Processing?",
+            "problems",
+            "evaluating the effectiveness of LLMs in simulating cognitive language processing"
+        ],
+        [
+            "Do Large Language Models Mirror Cognitive Language Processing?",
+            "methods",
+            "representational similarity analysis (RSA)"
+        ],
+        [
+            "Do Large Language Models Mirror Cognitive Language Processing?",
+            "effects",
+            "model scaling is positively correlated with LLM-brain similarity, alignment training can significantly improve LLM-brain similarity, and the performance of various LLM evaluations is highly correlated with LLM-brain similarity"
+        ],
+        [
+            "SVD-LLM: Truncation-aware Singular Value Decomposition for Large\n  Language Model Compression",
+            "author",
+            "Xin Wang, Yu Zheng, Zhongwei Wan, Mi Zhang"
+        ],
+        [
+            "SVD-LLM: Truncation-aware Singular Value Decomposition for Large\n  Language Model Compression",
+            "published",
+            "2024-03-12T07:31:18Z"
+        ],
+        [
+            "SVD-LLM: Truncation-aware Singular Value Decomposition for Large\n  Language Model Compression",
+            "problems",
+            "substantial sizes of LLMs hinder their deployment; state-of-the-art SVD-based LLM compression methods have key limitations such as truncating smaller singular values leading to higher compression loss and lack of update on remaining model parameters after SVD truncation."
+        ],
+        [
+            "SVD-LLM: Truncation-aware Singular Value Decomposition for Large\n  Language Model Compression",
+            "methods",
+            "proposed SVD-LLM is a new SVD-based LLM compression method that addresses these limitations with a truncation-aware data whitening strategy and a layer-wise closed-form model parameter update strategy."
+        ],
+        [
+            "SVD-LLM: Truncation-aware Singular Value Decomposition for Large\n  Language Model Compression",
+            "effects",
+            "evaluated on a total of 11 datasets and seven models from three different LLM families at four different scales, SVD-LLM demonstrates its superiority over state-of-the-arts, especially at high model compression ratios."
+        ],
+        [
+            "RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit",
+            "author",
+            "Jiongnan Liu, Jiajie Jin, Zihan Wang, Jiehan Cheng, Zhicheng Dou, Ji-Rong Wen"
+        ],
+        [
+            "RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit",
+            "published",
+            "2023-06-08T14:10:54Z"
+        ],
+        [
+            "RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit",
+            "problems",
+            "hallucination in generating responses"
+        ],
+        [
+            "RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit",
+            "methods",
+            "augmenting LLMs with information retrieval systems"
+        ],
+        [
+            "RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit",
+            "effects",
+            "improved factual text generation and ability to answer in-domain questions"
+        ],
+        [
+            "MART: Improving LLM Safety with Multi-round Automatic Red-Teaming",
+            "author",
+            "Suyu Ge, Chunting Zhou, Rui Hou, Madian Khabsa, Yi-Chia Wang, Qifan Wang, Jiawei Han, Yuning Mao"
+        ],
+        [
+            "MART: Improving LLM Safety with Multi-round Automatic Red-Teaming",
+            "published",
+            "2023-11-13T19:13:29Z"
+        ],
+        [
+            "MART: Improving LLM Safety with Multi-round Automatic Red-Teaming",
+            "problems",
+            "unsafe behaviors in LLMs"
+        ],
+        [
+            "MART: Improving LLM Safety with Multi-round Automatic Red-Teaming",
+            "methods",
+            "Multi-round Automatic Red-Teaming (MART)"
+        ],
+        [
+            "MART: Improving LLM Safety with Multi-round Automatic Red-Teaming",
+            "effects",
+            "significant increase in red-teaming scalability and safety of the target LLM"
+        ],
+        [
+            "llm-japanese-dataset v0: Construction of Japanese Chat Dataset for Large\n  Language Models and its Methodology",
+            "author",
+            "Masanori Hirano, Masahiro Suzuki, Hiroki Sakaji"
+        ],
+        [
+            "llm-japanese-dataset v0: Construction of Japanese Chat Dataset for Large\n  Language Models and its Methodology",
+            "published",
+            "2023-05-22T04:59:33Z"
+        ],
+        [
+            "llm-japanese-dataset v0: Construction of Japanese Chat Dataset for Large\n  Language Models and its Methodology",
+            "problems",
+            "supporting languages other than English in large language models; difficulty in constructing LLMs in languages other than English"
+        ],
+        [
+            "llm-japanese-dataset v0: Construction of Japanese Chat Dataset for Large\n  Language Models and its Methodology",
+            "methods",
+            "constructing a Japanese chat dataset for tuning LLMs; tuning an existing LLM using the constructed dataset; evaluating the performance qualitatively"
+        ],
+        [
+            "llm-japanese-dataset v0: Construction of Japanese Chat Dataset for Large\n  Language Models and its Methodology",
+            "effects",
+            "the constructed dataset is possibly beneficial for LLMs"
+        ],
+        [
+            "QuaCer-C: Quantitative Certification of Knowledge Comprehension in LLMs",
+            "author",
+            "Isha Chaudhary, Vedaant V. Jain, Gagandeep Singh"
+        ],
+        [
+            "QuaCer-C: Quantitative Certification of Knowledge Comprehension in LLMs",
+            "published",
+            "2024-02-24T23:16:57Z"
+        ],
+        [
+            "QuaCer-C: Quantitative Certification of Knowledge Comprehension in LLMs",
+            "problems",
+            "formal guarantees on the performance of LLMs, knowledge-comprehension capabilities of popular LLMs."
+        ],
+        [
+            "QuaCer-C: Quantitative Certification of Knowledge Comprehension in LLMs",
+            "methods",
+            "proposed a novel certification framework for LLM, QuaCer-C, wherein we formally certify the knowledge-comprehension capabilities of popular LLMs."
+        ],
+        [
+            "QuaCer-C: Quantitative Certification of Knowledge Comprehension in LLMs",
+            "effects",
+            "Our certificates are quantitative - they consist of high-confidence, tight bounds on the probability that the target LLM gives the correct answer on any relevant knowledge comprehension prompt."
+        ],
+        [
+            "LawBench: Benchmarking Legal Knowledge of Large Language Models",
+            "author",
+            "Zhiwei Fei, Xiaoyu Shen, Dawei Zhu, Fengzhe Zhou, Zhuo Han, Songyang Zhang, Kai Chen, Zongwen Shen, Jidong Ge"
+        ],
+        [
+            "LawBench: Benchmarking Legal Knowledge of Large Language Models",
+            "published",
+            "2023-09-28T09:35:59Z"
+        ],
+        [
+            "LawBench: Benchmarking Legal Knowledge of Large Language Models",
+            "problems",
+            "evaluation of legal capabilities of large language models"
+        ],
+        [
+            "LawBench: Benchmarking Legal Knowledge of Large Language Models",
+            "methods",
+            "proposing a comprehensive evaluation benchmark called LawBench with three cognitive levels to assess the legal capabilities of LLMs through 20 diverse tasks covering 5 task types"
+        ],
+        [
+            "LawBench: Benchmarking Legal Knowledge of Large Language Models",
+            "effects",
+            "GPT-4 is found to be the best-performing LLM in the legal domain, but there is still a long way to obtain usable and reliable LLMs for legal tasks."
+        ],
+        [
+            "Identifying Multiple Personalities in Large Language Models with\n  External Evaluation",
+            "author",
+            "Xiaoyang Song, Yuta Adachi, Jessie Feng, Mouwei Lin, Linhao Yu, Frank Li, Akshat Gupta, Gopala Anumanchipalli, Simerjot Kaur"
+        ],
+        [
+            "Identifying Multiple Personalities in Large Language Models with\n  External Evaluation",
+            "published",
+            "2024-02-22T18:57:20Z"
+        ],
+        [
+            "Identifying Multiple Personalities in Large Language Models with\n  External Evaluation",
+            "problems",
+            "ethical concerns regarding the behavior of LLMs, applicability and reliability of self-assessment tests for LLMs"
+        ],
+        [
+            "Identifying Multiple Personalities in Large Language Models with\n  External Evaluation",
+            "methods",
+            "external evaluation method, fine-tuning a Llama2-7B model as the MBTI personality predictor, prompting LLMs with situational questions and analyzing their responses using the external machine learning model"
+        ],
+        [
+            "Identifying Multiple Personalities in Large Language Models with\n  External Evaluation",
+            "effects",
+            "identification of significant differences in LLMs' personality types when generating posts versus comments, highlighting a fundamental difference between personality in LLMs and humans, call for a re-evaluation of personality definition and measurement in LLMs"
+        ],
+        [
+            "Minions: Accelerating Large Language Model Inference with Adaptive and\n  Collective Speculative Decoding",
+            "author",
+            "Siqi Wang, Hailong Yang, Xuezhu Wang, Tongxuan Liu, Pengbo Wang, Xuning Liang, Kejie Ma, Tianyu Feng, Xin You, Yongjun Bao, Yi Liu, Zhongzhi Luan, Depei Qian"
+        ],
+        [
+            "Minions: Accelerating Large Language Model Inference with Adaptive and\n  Collective Speculative Decoding",
+            "published",
+            "2024-02-24T01:45:35Z"
+        ],
+        [
+            "Minions: Accelerating Large Language Model Inference with Adaptive and\n  Collective Speculative Decoding",
+            "problems",
+            "efficient LLM inference, autoregressive decoding, fine-tuning the LLM, low acceptance rate of SSM, high verification cost of LLM"
+        ],
+        [
+            "Minions: Accelerating Large Language Model Inference with Adaptive and\n  Collective Speculative Decoding",
+            "methods",
+            "pruning, quantization, speculative decoding, majority-voted mechanism, adaptive mechanism, decoupling the SSM decoding and LLM verification, pipelined execution mechanism"
+        ],
+        [
+            "Minions: Accelerating Large Language Model Inference with Adaptive and\n  Collective Speculative Decoding",
+            "effects",
+            "accelerates LLM inference, improves the inference performance, reduces the verification cost of LLM, achieves higher inference throughput and lower inference time"
+        ],
+        [
+            "FrugalGPT: How to Use Large Language Models While Reducing Cost and\n  Improving Performance",
+            "author",
+            "Lingjiao Chen, Matei Zaharia, James Zou"
+        ],
+        [
+            "FrugalGPT: How to Use Large Language Models While Reducing Cost and\n  Improving Performance",
+            "published",
+            "2023-05-09T05:11:02Z"
+        ],
+        [
+            "FrugalGPT: How to Use Large Language Models While Reducing Cost and\n  Improving Performance",
+            "problems",
+            "high costs associated with querying large language models (LLMs)"
+        ],
+        [
+            "FrugalGPT: How to Use Large Language Models While Reducing Cost and\n  Improving Performance",
+            "methods",
+            "prompt adaptation, LLM approximation, LLM cascade"
+        ],
+        [
+            "FrugalGPT: How to Use Large Language Models While Reducing Cost and\n  Improving Performance",
+            "effects",
+            "FrugalGPT can match the performance of the best individual LLM (e.g. GPT-4) with up to 98% cost reduction or improve the accuracy over GPT-4 by 4% with the same cost."
+        ],
+        [
+            "A Critical Look at Classic Test-Time Adaptation Methods in Semantic\n  Segmentation",
+            "author",
+            "Chang'an Yi, Haotian Chen, Yifan Zhang, Yonghui Xu, Lizhen Cui"
+        ],
+        [
+            "A Critical Look at Classic Test-Time Adaptation Methods in Semantic\n  Segmentation",
+            "published",
+            "2023-10-09T01:59:49Z"
+        ],
+        [
+            "A Critical Look at Classic Test-Time Adaptation Methods in Semantic\n  Segmentation",
+            "field",
+            "test-time adaptation"
+        ],
+        [
+            "A Critical Look at Classic Test-Time Adaptation Methods in Semantic\n  Segmentation",
+            "problems",
+            "adapting a model to potential distribution shifts in the test data for semantic segmentation; issues with classic batch norm updating strategy commonly used in classification TTA; challenges of long-tailed imbalance problem in segmentation TTA"
+        ],
+        [
+            "A Critical Look at Classic Test-Time Adaptation Methods in Semantic\n  Segmentation",
+            "methods",
+            "empirical study, batch renormalization, teacher-student scheme, pseudo-labels"
+        ],
+        [
+            "A Critical Look at Classic Test-Time Adaptation Methods in Semantic\n  Segmentation",
+            "effects",
+            "slight performance improvement with classic batch norm updating strategy but can also harm results; teacher-student scheme enhances training stability but does not directly improve performance; long-tailed imbalance problem significantly affects segmentation TTA performance"
+        ],
+        [
+            "Understanding Test-Time Augmentation",
+            "author",
+            "Masanari Kimura"
+        ],
+        [
+            "Understanding Test-Time Augmentation",
+            "published",
+            "2024-02-10T06:49:08Z"
+        ],
+        [
+            "Understanding Test-Time Augmentation",
+            "field",
+            "Machine Learning"
+        ],
+        [
+            "Understanding Test-Time Augmentation",
+            "problems",
+            "Understanding the theoretical aspects of Test-Time Augmentation (TTA)"
+        ],
+        [
+            "Understanding Test-Time Augmentation",
+            "methods",
+            "The paper provides theoretical guarantees for TTA and analyzes its behavior."
+        ],
+        [
+            "Understanding Test-Time Augmentation",
+            "effects",
+            "The paper contributes to the understanding of TTA and its potential use in machine learning."
+        ],
+        [
+            "Thiophene-Tetrathia-Annulene monolayer (TTA-2D): A new 2D semiconductor\n  material with indirect bandgap",
+            "author",
+            "Raphael M. Tromer, Leonardo D. Machado, Cristiano F. Woellner, Douglas S. Galvao"
+        ],
+        [
+            "Thiophene-Tetrathia-Annulene monolayer (TTA-2D): A new 2D semiconductor\n  material with indirect bandgap",
+            "published",
+            "2020-05-01T21:05:24Z"
+        ],
+        [
+            "Thiophene-Tetrathia-Annulene monolayer (TTA-2D): A new 2D semiconductor\n  material with indirect bandgap",
+            "field",
+            "semiconductor materials"
+        ],
+        [
+            "Thiophene-Tetrathia-Annulene monolayer (TTA-2D): A new 2D semiconductor\n  material with indirect bandgap",
+            "problems",
+            "investigating structural, electronic, and optical properties of TTA-2D; inducing semiconductor-metal transition; ensuring thermal stability; optimizing absorption spectrum; minimizing reflectivity"
+        ],
+        [
+            "Thiophene-Tetrathia-Annulene monolayer (TTA-2D): A new 2D semiconductor\n  material with indirect bandgap",
+            "methods",
+            "using ab initio methods; applying uniaxial strain; analyzing refractive index and reflectivity"
+        ],
+        [
+            "Thiophene-Tetrathia-Annulene monolayer (TTA-2D): A new 2D semiconductor\n  material with indirect bandgap",
+            "effects",
+            "discovering that TTA-2D is a small indirect bandgap semiconductor with potential for solar cell applications"
+        ],
+        [
+            "Reliable Test-Time Adaptation via Agreement-on-the-Line",
+            "author",
+            "Eungyeup Kim, Mingjie Sun, Aditi Raghunathan, Zico Kolter"
+        ],
+        [
+            "Reliable Test-Time Adaptation via Agreement-on-the-Line",
+            "published",
+            "2023-10-07T23:21:25Z"
+        ],
+        [
+            "Reliable Test-Time Adaptation via Agreement-on-the-Line",
+            "problems",
+            "difficulties in evaluating TTA performance, miscalibration after TTA, unreliable hyperparameter tuning for adaptation"
+        ],
+        [
+            "Reliable Test-Time Adaptation via Agreement-on-the-Line",
+            "methods",
+            "estimating OOD accuracy without labeled data, calibrating TTAed models without label information, reliably determining hyperparameters for TTA without any labeled validation data"
+        ],
+        [
+            "Reliable Test-Time Adaptation via Agreement-on-the-Line",
+            "effects",
+            "improved reliability of TTA methods, precise evaluation of TTA methods, improved OOD accuracy and calibration error."
+        ],
+        [
+            "Persistent Test-time Adaptation in Episodic Testing Scenarios",
+            "author",
+            "Trung-Hieu Hoang, Duc Minh Vo, Minh N. Do"
+        ],
+        [
+            "Persistent Test-time Adaptation in Episodic Testing Scenarios",
+            "published",
+            "2023-11-30T02:24:44Z"
+        ],
+        [
+            "Persistent Test-time Adaptation in Episodic Testing Scenarios",
+            "problems",
+            "error accumulation in TTA models when repeatedly exposed to previous testing environments"
+        ],
+        [
+            "Persistent Test-time Adaptation in Episodic Testing Scenarios",
+            "methods",
+            "proposing a novel testing setting called episodic TTA, designing a simulation of TTA process on a simple yet representative epsilon-perturbed Gaussian Mixture Model Classifier, proposing a method called persistent TTA (PeTTA)"
+        ],
+        [
+            "Persistent Test-time Adaptation in Episodic Testing Scenarios",
+            "effects",
+            "theoretical findings revealing factors contributing to the gradual degeneration of TTA methods over time, demonstrating the stability of PeTTA in the face of episodic TTA scenarios through experiments on various benchmarks."
+        ],
+        [
+            "Uncovering Adversarial Risks of Test-Time Adaptation",
+            "author",
+            "Tong Wu, Feiran Jia, Xiangyu Qi, Jiachen T. Wang, Vikash Sehwag, Saeed Mahloujifar, Prateek Mittal"
+        ],
+        [
+            "Uncovering Adversarial Risks of Test-Time Adaptation",
+            "published",
+            "2023-01-29T22:58:05Z"
+        ],
+        [
+            "Uncovering Adversarial Risks of Test-Time Adaptation",
+            "problems",
+            "security vulnerability, distribution shifts"
+        ],
+        [
+            "Uncovering Adversarial Risks of Test-Time Adaptation",
+            "methods",
+            "Distribution Invading Attack (DIA)"
+        ],
+        [
+            "Uncovering Adversarial Risks of Test-Time Adaptation",
+            "effects",
+            "adversaries can cause models using TTA to misclassify benign and unperturbed test data"
+        ],
+        [
+            "SoTTA: Robust Test-Time Adaptation on Noisy Data Streams",
+            "author",
+            "Taesik Gong, Yewon Kim, Taeckyung Lee, Sorn Chottananurak, Sung-Ju Lee"
+        ],
+        [
+            "SoTTA: Robust Test-Time Adaptation on Noisy Data Streams",
+            "published",
+            "2023-10-16T05:15:35Z"
+        ],
+        [
+            "SoTTA: Robust Test-Time Adaptation on Noisy Data Streams",
+            "field",
+            "continual learning"
+        ],
+        [
+            "SoTTA: Robust Test-Time Adaptation on Noisy Data Streams",
+            "problems",
+            "distributional shifts between training and testing data, noisy test samples"
+        ],
+        [
+            "SoTTA: Robust Test-Time Adaptation on Noisy Data Streams",
+            "methods",
+            "test-time adaptation, high-confidence uniform-class sampling, entropy-sharpness minimization"
+        ],
+        [
+            "SoTTA: Robust Test-Time Adaptation on Noisy Data Streams",
+            "effects",
+            "improves robustness of model parameters against large gradients from noisy samples, outperforms state-of-the-art TTA methods under the presence of noisy samples"
+        ],
+        [
+            "Test-time Adaptation in the Dynamic World with Compound Domain Knowledge\n  Management",
+            "author",
+            "Junha Song, Kwanyong Park, InKyu Shin, Sanghyun Woo, Chaoning Zhang, In So Kweon"
+        ],
+        [
+            "Test-time Adaptation in the Dynamic World with Compound Domain Knowledge\n  Management",
+            "published",
+            "2022-12-16T09:02:01Z"
+        ],
+        [
+            "Test-time Adaptation in the Dynamic World with Compound Domain Knowledge\n  Management",
+            "field",
+            "robotics"
+        ],
+        [
+            "Test-time Adaptation in the Dynamic World with Compound Domain Knowledge\n  Management",
+            "problems",
+            "test-time adaptation (TTA), dynamic distributional changes, overfitting"
+        ],
+        [
+            "Test-time Adaptation in the Dynamic World with Compound Domain Knowledge\n  Management",
+            "methods",
+            "robust TTA framework with compound domain knowledge management, novel regularization"
+        ],
+        [
+            "Test-time Adaptation in the Dynamic World with Compound Domain Knowledge\n  Management",
+            "effects",
+            "consistent performance improvements in diverse TTA scenarios, especially on dynamic domain shifts"
+        ],
+        [
+            "Robust Question Answering against Distribution Shifts with Test-Time\n  Adaptation: An Empirical Study",
+            "author",
+            "Hai Ye, Yuyang Ding, Juntao Li, Hwee Tou Ng"
+        ],
+        [
+            "Robust Question Answering against Distribution Shifts with Test-Time\n  Adaptation: An Empirical Study",
+            "published",
+            "2023-02-09T13:10:53Z"
+        ],
+        [
+            "Robust Question Answering against Distribution Shifts with Test-Time\n  Adaptation: An Empirical Study",
+            "field",
+            "question answering"
+        ],
+        [
+            "Robust Question Answering against Distribution Shifts with Test-Time\n  Adaptation: An Empirical Study",
+            "problems",
+            "model robustness, distribution shifts"
+        ],
+        [
+            "Robust Question Answering against Distribution Shifts with Test-Time\n  Adaptation: An Empirical Study",
+            "methods",
+            "robustness tuning, test-time adaptation, online imitation learning"
+        ],
+        [
+            "Robust Question Answering against Distribution Shifts with Test-Time\n  Adaptation: An Empirical Study",
+            "effects",
+            "improving model performance after deployment, comparison with previous methods"
+        ],
+        [
+            "Benchmarking Test-Time Adaptation against Distribution Shifts in Image\n  Classification",
+            "author",
+            "Yongcan Yu, Lijun Sheng, Ran He, Jian Liang"
+        ],
+        [
+            "Benchmarking Test-Time Adaptation against Distribution Shifts in Image\n  Classification",
+            "published",
+            "2023-07-06T16:59:53Z"
+        ],
+        [
+            "Benchmarking Test-Time Adaptation against Distribution Shifts in Image\n  Classification",
+            "field",
+            "test time adaptation"
+        ],
+        [
+            "Benchmarking Test-Time Adaptation against Distribution Shifts in Image\n  Classification",
+            "problems",
+            "lack of consistent and fair benchmarks to validate the effectiveness of tta methods"
+        ],
+        [
+            "Benchmarking Test-Time Adaptation against Distribution Shifts in Image\n  Classification",
+            "methods",
+            "evaluating 13 prominent tta methods and their variants on five widely used image classification datasets"
+        ],
+        [
+            "Benchmarking Test-Time Adaptation against Distribution Shifts in Image\n  Classification",
+            "effects",
+            "aiming to provide researchers and practitioners with a reliable means of assessing and comparing the effectiveness of tta methods"
+        ],
+        [
+            "Test-Time Poisoning Attacks Against Test-Time Adaptation Models",
+            "author",
+            "Tianshuo Cong, Xinlei He, Yun Shen, Yang Zhang"
+        ],
+        [
+            "Test-Time Poisoning Attacks Against Test-Time Adaptation Models",
+            "published",
+            "2023-08-16T17:00:32Z"
+        ],
+        [
+            "Test-Time Poisoning Attacks Against Test-Time Adaptation Models",
+            "field",
+            "machine learning"
+        ],
+        [
+            "Test-Time Poisoning Attacks Against Test-Time Adaptation Models",
+            "problems",
+            "distribution shifts, test-time adaptation (TTA), test-time poisoning attacks"
+        ],
+        [
+            "Test-Time Poisoning Attacks Against Test-Time Adaptation Models",
+            "methods",
+            "continuous fine-tuning, generating poisoned samples based on surrogate models"
+        ],
+        [
+            "Test-Time Poisoning Attacks Against Test-Time Adaptation Models",
+            "effects",
+            "vulnerability of TTA methods to test-time poisoning attacks, degradation of target model's performance"
+        ],
+        [
+            "Auffusion: Leveraging the Power of Diffusion and Large Language Models\n  for Text-to-Audio Generation",
+            "author",
+            "Jinlong Xue, Yayue Deng, Yingming Gao, Ya Li"
+        ],
+        [
+            "Auffusion: Leveraging the Power of Diffusion and Large Language Models\n  for Text-to-Audio Generation",
+            "published",
+            "2024-01-02T05:42:14Z"
+        ],
+        [
+            "Auffusion: Leveraging the Power of Diffusion and Large Language Models\n  for Text-to-Audio Generation",
+            "problems",
+            "generation quality and text-audio alignment"
+        ],
+        [
+            "Auffusion: Leveraging the Power of Diffusion and Large Language Models\n  for Text-to-Audio Generation",
+            "methods",
+            "adapting T2I model frameworks to TTA task, leveraging inherent generative strengths and precise cross-modal alignment"
+        ],
+        [
+            "Auffusion: Leveraging the Power of Diffusion and Large Language Models\n  for Text-to-Audio Generation",
+            "effects",
+            "surpasses previous TTA approaches using limited data and computational resource, superior capability in generating audios that accurately match textual descriptions"
+        ],
+        [
+            "Efficient Diffusion-Driven Corruption Editor for Test-Time Adaptation",
+            "author",
+            "Yeongtak Oh, Jonghyun Lee, Jooyoung Choi, Dahuin Jung, Uiwon Hwang, Sungroh Yoon"
+        ],
+        [
+            "Efficient Diffusion-Driven Corruption Editor for Test-Time Adaptation",
+            "published",
+            "2024-03-16T12:18:20Z"
+        ],
+        [
+            "Efficient Diffusion-Driven Corruption Editor for Test-Time Adaptation",
+            "problems",
+            "unforeseen distribution shifts, resource requirements, limitations of conventional model updating TTA approaches"
+        ],
+        [
+            "Efficient Diffusion-Driven Corruption Editor for Test-Time Adaptation",
+            "methods",
+            "latent diffusion model, corruption modeling scheme, distilled variant, data augmentation"
+        ],
+        [
+            "Efficient Diffusion-Driven Corruption Editor for Test-Time Adaptation",
+            "effects",
+            "enhanced robustness, faster runtime, improved performance compared to baselines"
+        ],
+        [
+            "Synthesis of luminescent terbium-thenoyltriflouroacetone MOF nanorods\n  for green laser application",
+            "author",
+            "D. Y. Medina-Velazquez, U. Caldi\u00f1o, A. Morales-Ramirez, J. Reyes-Miranda, R. E. Lopez, R. Escudero, R. Ruiz-Guerrero, M. F. Morales Pereza"
+        ],
+        [
+            "Synthesis of luminescent terbium-thenoyltriflouroacetone MOF nanorods\n  for green laser application",
+            "published",
+            "2018-09-07T21:13:19Z"
+        ],
+        [
+            "Synthesis of luminescent terbium-thenoyltriflouroacetone MOF nanorods\n  for green laser application",
+            "field",
+            "Materials Science"
+        ],
+        [
+            "Synthesis of luminescent terbium-thenoyltriflouroacetone MOF nanorods\n  for green laser application",
+            "problems",
+            "Synthesis and characterization of Terbium-based Metal-Organic Frameworks"
+        ],
+        [
+            "Synthesis of luminescent terbium-thenoyltriflouroacetone MOF nanorods\n  for green laser application",
+            "methods",
+            "FTIR, NMR, SEM, TEM, XRD, Photoluminescence, Energy Transfer Efficiency, Decay Time Analysis"
+        ],
+        [
+            "Synthesis of luminescent terbium-thenoyltriflouroacetone MOF nanorods\n  for green laser application",
+            "effects",
+            "Enhanced photoluminescence intensity and energy transfer efficiency, differences in crystallinity and lifetime depending on terbium concentration."
+        ],
+        [
+            "Boosting Anomaly Detection Using Unsupervised Diverse Test-Time\n  Augmentation",
+            "author",
+            "Seffi Cohen, Niv Goldshlager, Lior Rokach, Bracha Shapira"
+        ],
+        [
+            "Boosting Anomaly Detection Using Unsupervised Diverse Test-Time\n  Augmentation",
+            "published",
+            "2021-10-29T11:55:41Z"
+        ],
+        [
+            "Boosting Anomaly Detection Using Unsupervised Diverse Test-Time\n  Augmentation",
+            "field",
+            "anomaly detection"
+        ],
+        [
+            "Boosting Anomaly Detection Using Unsupervised Diverse Test-Time\n  Augmentation",
+            "problems",
+            "identification of abnormal events, no studies utilizing test-time augmentation (TTA) for anomaly detection in tabular data"
+        ],
+        [
+            "Boosting Anomaly Detection Using Unsupervised Diverse Test-Time\n  Augmentation",
+            "methods",
+            "test-time augmentation (TTA), TTAD augments a test instance based on its nearest neighbors, various methods including the k-Means centroid and SMOTE methods, Siamese network to learn an advanced distance metric"
+        ],
+        [
+            "Boosting Anomaly Detection Using Unsupervised Diverse Test-Time\n  Augmentation",
+            "effects",
+            "improving anomaly detection performance, significantly higher AUC results on all datasets evaluated."
+        ],
+        [
+            "Robust Mean Teacher for Continual and Gradual Test-Time Adaptation",
+            "author",
+            "Mario D\u00f6bler, Robert A. Marsden, Bin Yang"
+        ],
+        [
+            "Robust Mean Teacher for Continual and Gradual Test-Time Adaptation",
+            "published",
+            "2022-11-23T16:14:45Z"
+        ],
+        [
+            "Robust Mean Teacher for Continual and Gradual Test-Time Adaptation",
+            "field",
+            "test-time adaption (TTA)"
+        ],
+        [
+            "Robust Mean Teacher for Continual and Gradual Test-Time Adaptation",
+            "problems",
+            "domain shifts, error accumulation"
+        ],
+        [
+            "Robust Mean Teacher for Continual and Gradual Test-Time Adaptation",
+            "methods",
+            "symmetric cross-entropy, mean teachers, contrastive learning"
+        ],
+        [
+            "Robust Mean Teacher for Continual and Gradual Test-Time Adaptation",
+            "effects",
+            "improving model performance, addressing sequential domain shifts"
+        ],
+        [
+            "Label Shift Adapter for Test-Time Adaptation under Covariate and Label\n  Shifts",
+            "author",
+            "Sunghyun Park, Seunghan Yang, Jaegul Choo, Sungrack Yun"
+        ],
+        [
+            "Label Shift Adapter for Test-Time Adaptation under Covariate and Label\n  Shifts",
+            "published",
+            "2023-08-17T06:37:37Z"
+        ],
+        [
+            "Label Shift Adapter for Test-Time Adaptation under Covariate and Label\n  Shifts",
+            "problems",
+            "imbalanced label distribution, covariate and label shifts"
+        ],
+        [
+            "Label Shift Adapter for Test-Time Adaptation under Covariate and Label\n  Shifts",
+            "methods",
+            "novel label shift adapter, estimation of label distribution, production of optimal parameters, computationally efficient prediction of parameters for pre-trained source model"
+        ],
+        [
+            "Label Shift Adapter for Test-Time Adaptation under Covariate and Label\n  Shifts",
+            "effects",
+            "substantial performance improvements under joint presence of label and covariate shifts"
+        ],
+        [
+            "Improving Black-box Robustness with In-Context Rewriting",
+            "author",
+            "Kyle O'Brien, Nathan Ng, Isha Puri, Jorge Mendez, Hamid Palangi, Yoon Kim, Marzyeh Ghassemi, Thomas Hartvigsen"
+        ],
+        [
+            "Improving Black-box Robustness with In-Context Rewriting",
+            "published",
+            "2024-02-13T05:33:35Z"
+        ],
+        [
+            "Improving Black-box Robustness with In-Context Rewriting",
+            "field",
+            "natural language processing"
+        ],
+        [
+            "Improving Black-box Robustness with In-Context Rewriting",
+            "problems",
+            "test-time augmentation, out-of-distribution robustness"
+        ],
+        [
+            "Improving Black-box Robustness with In-Context Rewriting",
+            "methods",
+            "LLM-generated augmentations, selective augmentation based on prediction entropy"
+        ],
+        [
+            "Improving Black-box Robustness with In-Context Rewriting",
+            "effects",
+            "improved OOD robustness for BERT and T5 models, maintained average ID performance, reduced rate of expensive LLM augmentations"
+        ],
+        [
+            "Reliable Spatial-Temporal Voxels For Multi-Modal Test-Time Adaptation",
+            "author",
+            "Haozhi Cao, Yuecong Xu, Jianfei Yang, Pengyu Yin, Xingyu Ji, Shenghai Yuan, Lihua Xie"
+        ],
+        [
+            "Reliable Spatial-Temporal Voxels For Multi-Modal Test-Time Adaptation",
+            "published",
+            "2024-03-11T06:56:08Z"
+        ],
+        [
+            "Reliable Spatial-Temporal Voxels For Multi-Modal Test-Time Adaptation",
+            "field",
+            "multi-modal test-time adaptation"
+        ],
+        [
+            "Reliable Spatial-Temporal Voxels For Multi-Modal Test-Time Adaptation",
+            "problems",
+            "unstable predictions across time in previous MM-TTA methods"
+        ],
+        [
+            "Reliable Spatial-Temporal Voxels For Multi-Modal Test-Time Adaptation",
+            "methods",
+            "leveraging reliable cross-modal spatial-temporal correspondences for multi-modal 3D segmentation, constructing ST voxel to capture temporally local prediction consistency, filtering out ST voxels with high ST entropy, conducting cross-modal learning with attention to reliable and consistent predictions among both spatial and temporal neighborhoods"
+        ],
+        [
+            "Reliable Spatial-Temporal Voxels For Multi-Modal Test-Time Adaptation",
+            "effects",
+            "state-of-the-art performance on three different MM-TTA benchmarks"
+        ],
+        [
+            "Towards Stable Test-Time Adaptation in Dynamic Wild World",
+            "author",
+            "Shuaicheng Niu, Jiaxiang Wu, Yifan Zhang, Zhiquan Wen, Yaofo Chen, Peilin Zhao, Mingkui Tan"
+        ],
+        [
+            "Towards Stable Test-Time Adaptation in Dynamic Wild World",
+            "published",
+            "2023-02-24T02:03:41Z"
+        ],
+        [
+            "Towards Stable Test-Time Adaptation in Dynamic Wild World",
+            "problems",
+            "unstable TTA, mixed distribution shifts, small batch sizes, online imbalanced label distribution shifts"
+        ],
+        [
+            "Towards Stable Test-Time Adaptation in Dynamic Wild World",
+            "methods",
+            "batch-agnostic norm layers (group or layer norm), sharpness-aware and reliable entropy minimization method (SAR)"
+        ],
+        [
+            "Towards Stable Test-Time Adaptation in Dynamic Wild World",
+            "effects",
+            "improvement of model performance, reduction of noise in test samples, stabilization of TTA"
+        ],
+        [
+            "Zero-Shot Task Transfer",
+            "author",
+            "Arghya Pal, Vineeth N Balasubramanian"
+        ],
+        [
+            "Zero-Shot Task Transfer",
+            "published",
+            "2019-03-04T07:02:42Z"
+        ],
+        [
+            "Zero-Shot Task Transfer",
+            "field",
+            "meta-learning"
+        ],
+        [
+            "Zero-Shot Task Transfer",
+            "problems",
+            "zero-shot tasks"
+        ],
+        [
+            "Zero-Shot Task Transfer",
+            "methods",
+            "TTNet, regressing model parameters, learning from the model parameters of known tasks and the correlation of known tasks to zero-shot tasks"
+        ],
+        [
+            "Zero-Shot Task Transfer",
+            "effects",
+            "out-performs state-of-the-art models on each of the zero-shot tasks, shows promise on zero-shot task transfer, can also be used in transfer learning"
+        ]
+    ],
+    "entities": {
+        "Benjamin Eysenbach, Sergey Levine": {},
+        "2021-03-10T18:45:48Z": {},
+        "reinforcement learning": {},
+        "disturbances to the dynamics or reward function, lack of rigorous proof and theoretical characterization of the MaxEnt RL robust set": {},
+        "maximum entropy (MaxEnt) RL, robust RL algorithms": {},
+        "maximizing a lower bound on a robust RL objective, learning policies that are robust to some disturbances, providing rigorous proof and theoretical characterization of the MaxEnt RL robust set, being a simple robust RL method with appealing formal guarantees": {},
+        "Maximum Entropy RL (Provably) Solves Some Robust RL Problems": "Many potential applications of reinforcement learning (RL) require guaranteesthat the agent will perform well in the face of disturbances to the dynamics orreward function. In this paper, we prove theoretically that maximum entropy(MaxEnt) RL maximizes a lower bound on a robust RL objective, and thus can beused to learn policies that are robust to some disturbances in the dynamics andthe reward function. While this capability of MaxEnt RL has been observedempirically in prior work, to the best of our knowledge our work provides thefirst rigorous proof and theoretical characterization of the MaxEnt RL robustset. While a number of prior robust RL algorithms have been designed to handlesimilar disturbances to the reward function or dynamics, these methodstypically require additional moving parts and hyperparameters on top of a baseRL algorithm. In contrast, our results suggest that MaxEnt RL by itself isrobust to certain disturbances, without requiring any additional modifications.While this does not imply that MaxEnt RL is the best available robust RLmethod, MaxEnt RL is a simple robust RL method with appealing formalguarantees.",
+        "Bryan Lim, Manon Flageat, Antoine Cully": {},
+        "2023-03-10T19:02:42Z": {},
+        "Quality-Diversity, Deep Reinforcement Learning, hybrid QD-RL algorithms, TD3 algorithm, optimization procedures between QD and RL": {},
+        "Generalized Actor-Critic QD-RL, modular framework, actor-critic deep RL methods, PGA-ME (SAC), PGA-ME (DroQ)": {},
+        "solving the humanoid environment, demonstrating that the actor-critic models in QD-RL are generally insufficiently trained, achieving performance gains without any additional environment evaluations.": {},
+        "Understanding the Synergies between Quality-Diversity and Deep\n  Reinforcement Learning": "The synergies between Quality-Diversity (QD) and Deep Reinforcement Learning(RL) have led to powerful hybrid QD-RL algorithms that have shown tremendouspotential, and brings the best of both fields. However, only a single deep RLalgorithm (TD3) has been used in prior hybrid methods despite notable progressmade by other RL algorithms. Additionally, there are fundamental differences inthe optimization procedures between QD and RL which would benefit from a moreprincipled approach. We propose Generalized Actor-Critic QD-RL, a unifiedmodular framework for actor-critic deep RL methods in the QD-RL setting. Thisframework provides a path to study insights from Deep RL in the QD-RL setting,which is an important and efficient way to make progress in QD-RL. We introducetwo new algorithms, PGA-ME (SAC) and PGA-ME (DroQ) which apply recentadvancements in Deep RL to the QD-RL setting, and solves the humanoidenvironment which was not possible using existing QD-RL algorithms. However, wealso find that not all insights from Deep RL can be effectively translated toQD-RL. Critically, this work also demonstrates that the actor-critic models inQD-RL are generally insufficiently trained and performance gains can beachieved without any additional environment evaluations.",
+        "Abhinav Bhatia, Samer B. Nashed, Shlomo Zilberstein": {},
+        "2023-06-28T04:16:16Z": {},
+        "data-efficient RL algorithms, long-horizon tasks, out-of-distribution tasks": {},
+        "meta-RL, recurrent neural networks, value functions, traditional RL, task-specific action-values, RL$^3$": {},
+        "improved cumulative reward on long-horizon and out-of-distribution tasks, maintaining efficiency in the short term": {},
+        "RL$^3$: Boosting Meta Reinforcement Learning via RL inside RL$^2$": "Meta reinforcement learning (meta-RL) methods such as RL$^2$ have emerged aspromising approaches for learning data-efficient RL algorithms tailored to agiven task distribution. However, these RL algorithms struggle withlong-horizon tasks and out-of-distribution tasks since they rely on recurrentneural networks to process the sequence of experiences instead of summarizingthem into general RL components such as value functions. Moreover, eventransformers have a practical limit to the length of histories they canefficiently reason about before training and inference costs becomeprohibitive. In contrast, traditional RL algorithms are data-inefficient sincethey do not leverage domain knowledge, but they do converge to an optimalpolicy as more data becomes available. In this paper, we propose RL$^3$, aprincipled hybrid approach that combines traditional RL and meta-RL byincorporating task-specific action-values learned through traditional RL as aninput to the meta-RL neural network. We show that RL$^3$ earns greatercumulative reward on long-horizon and out-of-distribution tasks compared toRL$^2$, while maintaining the efficiency of the latter in the short term.Experiments are conducted on both custom and benchmark discrete domains fromthe meta-RL literature that exhibit a range of short-term, long-term, andcomplex dependencies.",
+        "Sobhan Miryoosefi, Chi Jin": {},
+        "2021-07-12T06:27:30Z": {},
+        "constrained reinforcement learning, reward-free RL": {},
+        "meta-algorithm, reward-free RL oracle, sample complexity, tabular MDP setting, linear function approximation": {},
+        "solving approachability and constrained RL problems, providing sharp sample complexity results, extending to tabular two-player Markov games": {},
+        "A Simple Reward-free Approach to Constrained Reinforcement Learning": "In constrained reinforcement learning (RL), a learning agent seeks to notonly optimize the overall reward but also satisfy the additional safety,diversity, or budget constraints. Consequently, existing constrained RLsolutions require several new algorithmic ingredients that are notablydifferent from standard RL. On the other hand, reward-free RL is independentlydeveloped in the unconstrained literature, which learns the transition dynamicswithout using the reward information, and thus naturally capable of addressingRL with multiple objectives under the common dynamics. This paper bridgesreward-free RL and constrained RL. Particularly, we propose a simplemeta-algorithm such that given any reward-free RL oracle, the approachabilityand constrained RL problems can be directly solved with negligible overheads insample complexity. Utilizing the existing reward-free RL solvers, our frameworkprovides sharp sample complexity results for constrained RL in the tabular MDPsetting, matching the best existing results up to a factor of horizondependence; our framework directly extends to a setting of tabular two-playerMarkov games, and gives a new result for constrained RL with linear functionapproximation.",
+        "Ke Sun, Bei Jiang, Linglong Kong": {},
+        "2022-09-29T02:18:31Z": {},
+        "optimization benefits of distributional reinforcement learning, understanding of how the value distribution in distributional RL works": {},
+        "leverage additional value distribution information over classical RL in the Neural Fitted Z-Iteration (Neural FZI) framework, decomposing the return distribution": {},
+        "stable optimization behaviors of distributional RL, acceleration effect of distributional RL": {},
+        "How Does Value Distribution in Distributional Reinforcement Learning\n  Help Optimization?": "We consider the problem of learning a set of probability distributions fromthe Bellman dynamics in distributional reinforcement learning~(RL) that learnsthe whole return distribution compared with only its expectation in classicalRL. Despite its success to obtain superior performance, we still have a poorunderstanding of how the value distribution in distributional RL works. In thisstudy, we analyze the optimization benefits of distributional RL by leverage ofadditional value distribution information over classical RL in the NeuralFitted Z-Iteration~(Neural FZI) framework. To begin with, we demonstrate thatthe distribution loss of distributional RL has desirable smoothnesscharacteristics and hence enjoys stable gradients, which is in line with itstendency to promote optimization stability. Furthermore, the accelerationeffect of distributional RL is revealed by decomposing the return distribution.It turns out that distributional RL can perform favorably if the valuedistribution approximation is appropriate, measured by the variance of gradientestimates in each environment for any specific distributional RL algorithm.Rigorous experiments validate the stable optimization behaviors ofdistributional RL, contributing to its acceleration effects compared toclassical RL. The findings of our research illuminate how the valuedistribution in distributional RL algorithms helps the optimization.",
+        "Yoshiki Takagi, Roderick Tabalba, Nurit Kirshenbaum, Jason Leigh": {},
+        "2024-02-05T21:17:44Z": {},
+        "difficulty for non-RL experts to understand and participate in discussions about RL models, lack of communication between RL and non-RL experts in creating machine learning solutions": {},
+        "using abstracted trajectories to depict transitions between major states of RL model, visualizing these trajectories to help non-RL experts build a mental model of the agent": {},
+        "early results suggest that this approach can help non-RL experts infer behavior patterns of RL": {},
+        "Abstracted Trajectory Visualization for Explainability in Reinforcement\n  Learning": "Explainable AI (XAI) has demonstrated the potential to help reinforcementlearning (RL) practitioners to understand how RL models work. However, XAI forusers who do not have RL expertise (non-RL experts), has not been studiedsufficiently. This results in a difficulty for the non-RL experts toparticipate in the fundamental discussion of how RL models should be designedfor an incoming society where humans and AI coexist. Solving such a problemwould enable RL experts to communicate with the non-RL experts in producingmachine learning solutions that better fit our society. We argue thatabstracted trajectories, that depicts transitions between the major states ofthe RL model, will be useful for non-RL experts to build a mental model of theagents. Our early results suggest that by leveraging a visualization of theabstracted trajectories, users without RL expertise are able to infer thebehavior patterns of RL.",
+        "Tom He, Jasmina Gajcin, Ivana Dusparic": {},
+        "2022-11-02T13:51:00Z": {},
+        "limited research in Causal RL, existing solutions are usually not complete or feasible for real-world applications": {},
+        "propose CausalCF, the first complete Causal RL solution incorporating ideas from Causal Curiosity and CoPhy. Causal Curiosity provides an approach for using interventions, and CoPhy is modified to enable the RL agent to perform counterfactuals.": {},
+        "apply CausalCF to complex robotic tasks and show that it improves the RL agent's robustness using CausalWorld.": {},
+        "Causal Counterfactuals for Improving the Robustness of Reinforcement\n  Learning": "Reinforcement learning (RL) is used in various robotic applications. RLenables agents to learn tasks autonomously by interacting with the environment.The more critical the tasks are, the higher the demand for the robustness ofthe RL systems. Causal RL combines RL and causal inference to make RL morerobust. Causal RL agents use a causal representation to capture the invariantcausal mechanisms that can be transferred from one task to another. Currently,there is limited research in Causal RL, and existing solutions are usually notcomplete or feasible for real-world applications. In this work, we proposeCausalCF, the first complete Causal RL solution incorporating ideas from CausalCuriosity and CoPhy. Causal Curiosity provides an approach for usinginterventions, and CoPhy is modified to enable the RL agent to performcounterfactuals. Causal Curiosity has been applied to robotic grasping andmanipulation tasks in CausalWorld. CausalWorld provides a realistic simulationenvironment based on the TriFinger robot. We apply CausalCF to complex robotictasks and show that it improves the RL agent's robustness using CausalWorld.",
+        "Nevan Wichers": {},
+        "2020-02-14T17:42:50Z": {},
+        "RL agents not fulfilling human preferences": {},
+        "training a classifier to predict human preferences based on RL agent's neural network activations, comparing performance with classifier trained on raw environment state and activations from an autoencoder, using the human preference classifier as the reward function of an RL agent": {},
+        "improving the ability of RL agents to fulfill human preferences": {},
+        "RL agents Implicitly Learning Human Preferences": "In the real world, RL agents should be rewarded for fulfilling humanpreferences. We show that RL agents implicitly learn the preferences of humansin their environment. Training a classifier to predict if a simulated human'spreferences are fulfilled based on the activations of a RL agent's neuralnetwork gets .93 AUC. Training a classifier on the raw environment state getsonly .8 AUC. Training the classifier off of the RL agent's activations alsodoes much better than training off of activations from an autoencoder. Thehuman preference classifier can be used as the reward function of an RL agentto make RL agent more beneficial for humans.",
+        "Guhao Feng, Han Zhong": {},
+        "2023-12-28T18:59:49Z": {},
+        "representation complexity in different rl paradigms": {},
+        "analysis of markov decision processes, constant-depth circuits, multi-layer perceptrons": {},
+        "discovery of a hierarchy of representation complexity in rl paradigms, showing that representing the model is easier than representing the optimal policy, which is in turn easier than representing the optimal value function": {},
+        "Rethinking Model-based, Policy-based, and Value-based Reinforcement\n  Learning via the Lens of Representation Complexity": "Reinforcement Learning (RL) encompasses diverse paradigms, includingmodel-based RL, policy-based RL, and value-based RL, each tailored toapproximate the model, optimal policy, and optimal value function,respectively. This work investigates the potential hierarchy of representationcomplexity -- the complexity of functions to be represented -- among these RLparadigms. We first demonstrate that, for a broad class of Markov decisionprocesses (MDPs), the model can be represented by constant-depth circuits withpolynomial size or Multi-Layer Perceptrons (MLPs) with constant layers andpolynomial hidden dimension. However, the representation of the optimal policyand optimal value proves to be $\\mathsf{NP}$-complete and unattainable byconstant-layer MLPs with polynomial size. This demonstrates a significantrepresentation complexity gap between model-based RL and model-free RL, whichincludes policy-based RL and value-based RL. To further explore therepresentation complexity hierarchy between policy-based RL and value-based RL,we introduce another general class of MDPs where both the model and optimalpolicy can be represented by constant-depth circuits with polynomial size orconstant-layer MLPs with polynomial size. In contrast, representing the optimalvalue is $\\mathsf{P}$-complete and intractable via a constant-layer MLP withpolynomial hidden dimension. This accentuates the intricate representationcomplexity associated with value-based RL compared to policy-based RL. Insummary, we unveil a potential representation complexity hierarchy within RL --representing the model emerges as the easiest task, followed by the optimalpolicy, while representing the optimal value function presents the mostintricate challenge.",
+        "Jen-Yueh Hsiao, Yuxuan Du, Wei-Yin Chiang, Min-Hsiu Hsieh, Hsi-Sheng Goan": {},
+        "2022-03-27T16:59:06Z": {},
+        "quantum reinforcement learning": {},
+        "sample efficiency in reinforcement learning": {},
+        "using quantum circuits and classical neural networks to train an agent": {},
+        "improved sample efficiency compared to classical RL, ability to complete tasks with fewer trainable parameters": {},
+        "Unentangled quantum reinforcement learning agents in the OpenAI Gym": "Classical reinforcement learning (RL) has generated excellent results indifferent regions; however, its sample inefficiency remains a critical issue.In this paper, we provide concrete numerical evidence that the sampleefficiency (the speed of convergence) of quantum RL could be better than thatof classical RL, and for achieving comparable learning performance, quantum RLcould use much (at least one order of magnitude) fewer trainable parametersthan classical RL. Specifically, we employ the popular benchmarkingenvironments of RL in the OpenAI Gym, and show that our quantum RL agentconverges faster than classical fully-connected neural networks (FCNs) in thetasks of CartPole and Acrobot under the same optimization process. We alsosuccessfully train the first quantum RL agent that can complete the task ofLunarLander in the OpenAI Gym. Our quantum RL agent only requires asingle-qubit-based variational quantum circuit without entangling gates,followed by a classical neural network (NN) to post-process the measurementoutput. Finally, we could accomplish the aforementioned tasks on the real IBMquantum machines. To the best of our knowledge, none of the earlier quantum RLagents could do that.",
+        "Kun Yang, Cong Shen, Jing Yang, Shu-ping Yeh, Jerry Sydir": {},
+        "2023-11-19T21:02:17Z": {},
+        "radio resource management, exploration, suboptimal behavior policies": {},
+        "offline RL algorithms (BCQ, CQL, IQL), data collection using behavior policies, mixture of datasets": {},
+        "improvement in RL policy optimization": {},
+        "Offline Reinforcement Learning for Wireless Network Optimization with\n  Mixture Datasets": "The recent development of reinforcement learning (RL) has boosted theadoption of online RL for wireless radio resource management (RRM). However,online RL algorithms require direct interactions with the environment, whichmay be undesirable given the potential performance loss due to the unavoidableexploration in RL. In this work, we first investigate the use of \\emph{offline}RL algorithms in solving the RRM problem. We evaluate several state-of-the-artoffline RL algorithms, including behavior constrained Q-learning (BCQ),conservative Q-learning (CQL), and implicit Q-learning (IQL), for a specificRRM problem that aims at maximizing a linear combination {of sum and}5-percentile rates via user scheduling. We observe that the performance ofoffline RL for the RRM problem depends critically on the behavior policy usedfor data collection, and further propose a novel offline RL solution thatleverages heterogeneous datasets collected by different behavior policies. Weshow that with a proper mixture of the datasets, offline RL can produce anear-optimal RL policy even when all involved behavior policies are highlysuboptimal.",
+        "James Gleeson, Srivatsan Krishnan, Moshe Gabel, Vijay Janapa Reddi, Eyal de Lara, Gennady Pekhimenko": {},
+        "2021-02-08T15:42:48Z": {},
+        "system-level bottlenecks in RL workloads are poorly understood; fundamental structural differences in RL workloads that make them inherently less GPU-bound than supervised learning (SL)": {},
+        "propose RL-Scope, a cross-stack profiler that scopes low-level CPU/GPU resource usage to high-level algorithmic operations, and provides accurate insights by correcting for profiling overhead.": {},
+        "explain where training time is spent in RL workloads, we survey RL workloads across its major dimensions including ML backend, RL algorithm, and simulator.": {},
+        "RL-Scope: Cross-Stack Profiling for Deep Reinforcement Learning\n  Workloads": "Deep reinforcement learning (RL) has made groundbreaking advancements inrobotics, data center management and other applications. Unfortunately,system-level bottlenecks in RL workloads are poorly understood; we observefundamental structural differences in RL workloads that make them inherentlyless GPU-bound than supervised learning (SL). To explain where training time isspent in RL workloads, we propose RL-Scope, a cross-stack profiler that scopeslow-level CPU/GPU resource usage to high-level algorithmic operations, andprovides accurate insights by correcting for profiling overhead. UsingRL-Scope, we survey RL workloads across its major dimensions including MLbackend, RL algorithm, and simulator. For ML backends, we explain a $2.3\\times$difference in runtime between equivalent PyTorch and TensorFlow algorithmimplementations, and identify a bottleneck rooted in overly abstractedalgorithm implementations. For RL algorithms and simulators, we show thaton-policy algorithms are at least $3.5\\times$ more simulation-bound thanoff-policy algorithms. Finally, we profile a scale-up workload and demonstratethat GPU utilization metrics reported by commonly used tools dramaticallyinflate GPU usage, whereas RL-Scope reports true GPU-bound time. RL-Scope is anopen-source tool available at https://github.com/UofT-EcoSystem/rlscope .",
+        "Yanchao Sun, Da Huo, Furong Huang": {},
+        "2020-09-02T01:43:30Z": {},
+        "poisoning attacks on rl systems": {},
+        "generic poisoning framework, vulnerability-aware adversarial critic poison (va2c-p)": {},
+        "prevents agents from learning a good policy or teaches them to converge to a target policy with a limited attacking budget.": {},
+        "Vulnerability-Aware Poisoning Mechanism for Online RL with Unknown\n  Dynamics": "Poisoning attacks on Reinforcement Learning (RL) systems could take advantageof RL algorithm's vulnerabilities and cause failure of the learning. However,prior works on poisoning RL usually either unrealistically assume the attackerknows the underlying Markov Decision Process (MDP), or directly apply thepoisoning methods in supervised learning to RL. In this work, we build ageneric poisoning framework for online RL via a comprehensive investigation ofheterogeneous poisoning models in RL. Without any prior knowledge of the MDP,we propose a strategic poisoning algorithm called Vulnerability-AwareAdversarial Critic Poison (VA2C-P), which works for most policy-based deep RLagents, closing the gap that no poisoning method exists for policy-based RLagents. VA2C-P uses a novel metric, stability radius in RL, that measures thevulnerability of RL algorithms. Experiments on multiple deep RL agents andmultiple environments show that our poisoning algorithm successfully preventsagents from learning a good policy or teaches the agents to converge to atarget policy, with a limited attacking budget.",
+        "Aquib Mustafa, Majid Mazouchi, Subramanya Nageshrao, Hamidreza Modares": {},
+        "2021-03-23T14:01:35Z": {},
+        "safety constraints, uncertain systems": {},
+        "metacognitive learning, adapting reward function parameters, Bayesian RL algorithm": {},
+        "guaranteed safety, performance assurance, satisfaction of safety constraints": {},
+        "Assured Learning-enabled Autonomy: A Metacognitive Reinforcement\n  Learning Framework": "Reinforcement learning (RL) agents with pre-specified reward functions cannotprovide guaranteed safety across variety of circumstances that an uncertainsystem might encounter. To guarantee performance while assuring satisfaction ofsafety constraints across variety of circumstances, an assured autonomouscontrol framework is presented in this paper by empowering RL algorithms withmetacognitive learning capabilities. More specifically, adapting the rewardfunction parameters of the RL agent is performed in a metacognitivedecision-making layer to assure the feasibility of RL agent. That is, to assurethat the learned policy by the RL agent satisfies safety constraints specifiedby signal temporal logic while achieving as much performance as possible. Themetacognitive layer monitors any possible future safety violation under theactions of the RL agent and employs a higher-layer Bayesian RL algorithm toproactively adapt the reward function for the lower-layer RL agent. To minimizethe higher-layer Bayesian RL intervention, a fitness function is leveraged bythe metacognitive layer as a metric to evaluate success of the lower-layer RLagent in satisfaction of safety and liveness specifications, and thehigher-layer Bayesian RL intervenes only if there is a risk of lower-layer RLfailure. Finally, a simulation example is provided to validate theeffectiveness of the proposed approach.",
+        "Shangding Gu, Long Yang, Yali Du, Guang Chen, Florian Walter, Jun Wang, Yaodong Yang, Alois Knoll": {},
+        "2022-05-20T17:42:38Z": {},
+        "safety concerns in deploying RL in the real world": {},
+        "review of progress of safe RL from five dimensions, analysis of theory and algorithm progress, sample complexity of safe RL methods, applications and benchmarks of safe RL algorithms": {},
+        "hope to inspire more future research on safe RL, release of a benchmark suite and open-sourced repository containing implementations of major safe RL algorithms": {},
+        "A Review of Safe Reinforcement Learning: Methods, Theory and\n  Applications": "Reinforcement learning (RL) has achieved tremendous success in many complexdecision making tasks. When it comes to deploying RL in the real world, safetyconcerns are usually raised, leading to a growing demand for safe RLalgorithms, such as in autonomous driving and robotics scenarios. While safetycontrol has a long history, the study of safe RL algorithms is still in theearly stages. To establish a good foundation for future research in thisthread, in this paper, we provide a review for safe RL from the perspectives ofmethods, theory and applications. Firstly, we review the progress of safe RLfrom five dimensions and come up with five problems that are crucial for safeRL being deployed in real-world applications, coined as \"2H3W\". Secondly, weanalyze the theory and algorithm progress from the perspectives of answeringthe \"2H3W\" problems. Then, the sample complexity of safe RL methods is reviewedand discussed, followed by an introduction of the applications and benchmarksof safe RL algorithms. Finally, we open the discussion of the challengingproblems in safe RL, hoping to inspire more future research on this thread.  To advance the study of safe RL algorithms, we release a benchmark suite, anopen-sourced repository containing the implementations of major safe RLalgorithms, along with tutorials at the link:https://github.com/chauncygu/Safe-Reinforcement-Learning-Baselines.git.",
+        "Rishabh Agarwal, Max Schwarzer, Pablo Samuel Castro, Aaron Courville, Marc G. Bellemare": {},
+        "2022-06-03T15:11:10Z": {},
+        "inefficiency of deep RL, prohibitively expensive re-training, computationally-demanding problems": {},
+        "reincarnating RL, transferring learned policies, standalone value-based RL agent, simple algorithm": {},
+        "efficiency gains, improved real-world RL adoption, democratization of RL": {},
+        "Reincarnating Reinforcement Learning: Reusing Prior Computation to\n  Accelerate Progress": "Learning tabula rasa, that is without any prior knowledge, is the prevalentworkflow in reinforcement learning (RL) research. However, RL systems, whenapplied to large-scale settings, rarely operate tabula rasa. Such large-scalesystems undergo multiple design or algorithmic changes during their developmentcycle and use ad hoc approaches for incorporating these changes withoutre-training from scratch, which would have been prohibitively expensive.Additionally, the inefficiency of deep RL typically excludes researcherswithout access to industrial-scale resources from tacklingcomputationally-demanding problems. To address these issues, we presentreincarnating RL as an alternative workflow or class of problem settings, whereprior computational work (e.g., learned policies) is reused or transferredbetween design iterations of an RL agent, or from one RL agent to another. As astep towards enabling reincarnating RL from any agent to any other agent, wefocus on the specific setting of efficiently transferring an existingsub-optimal policy to a standalone value-based RL agent. We find that existingapproaches fail in this setting and propose a simple algorithm to address theirlimitations. Equipped with this algorithm, we demonstrate reincarnating RL'sgains over tabula rasa RL on Atari 2600 games, a challenging locomotion task,and the real-world problem of navigating stratospheric balloons. Overall, thiswork argues for an alternative approach to RL research, which we believe couldsignificantly improve real-world RL adoption and help democratize it further.Open-sourced code and trained agents athttps://agarwl.github.io/reincarnating_rl.",
+        "2019-10-04T12:50:34Z": {},
+        "maximizing expected utility, variability in reward function, control problems, partially observable Markov decision processes (POMDPs)": {},
+        "maximum entropy reinforcement learning (MaxEnt RL), two-player game approach": {},
+        "provides insight into the types of problems suitable for MaxEnt RL, suggests domains with uncertainty in the task goal may be well-suited for MaxEnt RL methods": {},
+        "If MaxEnt RL is the Answer, What is the Question?": "Experimentally, it has been observed that humans and animals often makedecisions that do not maximize their expected utility, but rather chooseoutcomes randomly, with probability proportional to expected utility.Probability matching, as this strategy is called, is equivalent to maximumentropy reinforcement learning (MaxEnt RL). However, MaxEnt RL does notoptimize expected utility. In this paper, we formally show that MaxEnt RL doesoptimally solve certain classes of control problems with variability in thereward function. In particular, we show (1) that MaxEnt RL can be used to solvea certain class of POMDPs, and (2) that MaxEnt RL is equivalent to a two-playergame where an adversary chooses the reward function. These results suggest adeeper connection between MaxEnt RL, robust control, and POMDPs, and provideinsight for the types of problems for which we might expect MaxEnt RL toproduce effective solutions. Specifically, our results suggest that domainswith uncertainty in the task goal may be especially well-suited for MaxEnt RLmethods.",
+        "Jung Hoon Lee": {},
+        "2019-01-01T18:14:35Z": {},
+        "decision-making of neural network-based RL agents is incomprehensible": {},
+        "derive a secondary comprehensible agent from a NN-based RL agent whose decision-makings are based on simple rules": {},
+        "empirical evaluation supports the possibility of building a comprehensible and transparent agent using a NN-based RL agent": {},
+        "Complementary reinforcement learning towards explainable agents": "Reinforcement learning (RL) algorithms allow agents to learn skills andstrategies to perform complex tasks without detailed instructions or expensivelabelled training examples. That is, RL agents can learn, as we learn. Giventhe importance of learning in our intelligence, RL has been thought to be oneof key components to general artificial intelligence, and recent breakthroughsin deep reinforcement learning suggest that neural networks (NN) are naturalplatforms for RL agents. However, despite the efficiency and versatility ofNN-based RL agents, their decision-making remains incomprehensible, reducingtheir utilities. To deploy RL into a wider range of applications, it isimperative to develop explainable NN-based RL agents. Here, we propose a methodto derive a secondary comprehensible agent from a NN-based RL agent, whosedecision-makings are based on simple rules. Our empirical evaluation of thissecondary agent's performance supports the possibility of building acomprehensible and transparent agent using a NN-based RL agent.",
+        "Scott Fujimoto, Shixiang Shane Gu": {},
+        "2021-06-12T20:38:59Z": {},
+        "offline reinforcement learning, errors in value estimation, out-of-distribution actions": {},
+        "constraining or regularizing the policy, adding a behavior cloning term to the policy update, normalizing the data": {},
+        "matching the performance of state-of-the-art offline RL algorithms, simplifying implementation and tuning, reducing computational overhead": {},
+        "A Minimalist Approach to Offline Reinforcement Learning": "Offline reinforcement learning (RL) defines the task of learning from a fixedbatch of data. Due to errors in value estimation from out-of-distributionactions, most offline RL algorithms take the approach of constraining orregularizing the policy with the actions contained in the dataset. Built onpre-existing RL algorithms, modifications to make an RL algorithm work offlinecomes at the cost of additional complexity. Offline RL algorithms introduce newhyperparameters and often leverage secondary components such as generativemodels, while adjusting the underlying RL algorithm. In this paper we aim tomake a deep RL algorithm work while making minimal changes. We find that we canmatch the performance of state-of-the-art offline RL algorithms by simplyadding a behavior cloning term to the policy update of an online RL algorithmand normalizing the data. The resulting algorithm is a simple to implement andtune baseline, while more than halving the overall run time by removing theadditional computational overhead of previous methods.",
+        "Navdeep Kumar, Kaixin Wang, Kfir Levy, Shie Mannor": {},
+        "2022-10-03T14:57:46Z": {},
+        "RL with non-linear utilities": {},
+        "policy gradient theorem, value iteration, policy gradient, dynamic programming": {},
+        "discovering an optimal policy that maximizes the expected cumulative rewards": {},
+        "Policy Gradient for Reinforcement Learning with General Utilities": "In Reinforcement Learning (RL), the goal of agents is to discover an optimalpolicy that maximizes the expected cumulative rewards. This objective may alsobe viewed as finding a policy that optimizes a linear function of itsstate-action occupancy measure, hereafter referred as Linear RL. However, manysupervised and unsupervised RL problems are not covered in the Linear RLframework, such as apprenticeship learning, pure exploration and variationalintrinsic control, where the objectives are non-linear functions of theoccupancy measures. RL with non-linear utilities looks unwieldy, as methodslike Bellman equation, value iteration, policy gradient, dynamic programmingthat had tremendous success in Linear RL, fail to trivially generalize. In thispaper, we derive the policy gradient theorem for RL with general utilities. Thepolicy gradient theorem proves to be a cornerstone in Linear RL due to itselegance and ease of implementability. Our policy gradient theorem for RL withgeneral utilities shares the same elegance and ease of implementability. Basedon the policy gradient theorem derived, we also present a simple sample-basedalgorithm. We believe our results will be of interest to the community andoffer inspiration to future works in this generalized setting.",
+        "Zibin Zheng, Kaiwen Ning, Yanlin Wang, Jingwen Zhang, Dewu Zheng, Mingxi Ye, Jiachi Chen": {},
+        "2023-11-17T07:55:16Z": {},
+        "large language models": {},
+        "lack of systematic investigation into Code LLMs and their performance.": {},
+        "survey and analysis of the types of Code LLMs and their differences in performance compared to general LLMs.": {},
+        "assists developers of Code LLMs in choosing base models for the development of more advanced LLMs but also provides insights for practitioners to better understand key improvement directions for Code LLMs.": {},
+        "A Survey of Large Language Models for Code: Evolution, Benchmarking, and\n  Future Trends": "General large language models (LLMs), represented by ChatGPT, havedemonstrated significant potential in tasks such as code generation in softwareengineering. This has led to the development of specialized LLMs for softwareengineering, known as Code LLMs. A considerable portion of Code LLMs is derivedfrom general LLMs through model fine-tuning. As a result, Code LLMs are oftenupdated frequently and their performance can be influenced by the base LLMs.However, there is currently a lack of systematic investigation into Code LLMsand their performance. In this study, we conduct a comprehensive survey andanalysis of the types of Code LLMs and their differences in performancecompared to general LLMs. We aim to address three questions: (1) What LLMs arespecifically designed for software engineering tasks, and what is therelationship between these Code LLMs? (2) Do Code LLMs really outperformgeneral LLMs in software engineering tasks? (3) Which LLMs are more proficientin different software engineering tasks? To answer these questions, we firstcollect relevant literature and work from five major databases and open-sourcecommunities, resulting in 134 works for analysis. Next, we categorize the CodeLLMs based on their publishers and examine their relationships with generalLLMs and among themselves. Furthermore, we investigate the performancedifferences between general LLMs and Code LLMs in various software engineeringtasks to demonstrate the impact of base models and Code LLMs. Finally, wecomprehensively maintained the performance of LLMs across multiple mainstreambenchmarks to identify the best-performing LLMs for each software engineeringtask. Our research not only assists developers of Code LLMs in choosing basemodels for the development of more advanced LLMs but also provides insights forpractitioners to better understand key improvement directions for Code LLMs.",
+        "Chenxi Sun, Hongyan Li, Yaliang Li, Shenda Hong": {},
+        "2023-08-16T09:16:02Z": {},
+        "time-series tasks, lack of data, limited resources, semantic context requirements": {},
+        "TS-for-LLM, TEST method, tokenization, instance-wise contrast, feature-wise contrast, text-prototype-aligned contrast, soft prompts, frozen LLM": {},
+        "better or comparable performance compared to SOTA TS models, few-shot and generalization capabilities, ability to process TS data without compromising language ability": {},
+        "TEST: Text Prototype Aligned Embedding to Activate LLM's Ability for\n  Time Series": "This work summarizes two ways to accomplish Time-Series (TS) tasks in today'sLarge Language Model (LLM) context: LLM-for-TS (model-centric) designs andtrains a fundamental large model, or fine-tunes a pre-trained LLM for TS data;TS-for-LLM (data-centric) converts TS into a model-friendly representation toenable the pre-trained LLM to handle TS data. Given the lack of data, limitedresources, semantic context requirements, and so on, this work focuses onTS-for-LLM, where we aim to activate LLM's ability for TS data by designing aTS embedding method suitable for LLM. The proposed method is named TEST. Itfirst tokenizes TS, builds an encoder to embed TS via instance-wise,feature-wise, and text-prototype-aligned contrast, where the TS embedding spaceis aligned to LLM embedding layer space, then creates soft prompts to make LLMmore open to that embeddings, and finally implements TS tasks using the frozenLLM. We also demonstrate the feasibility of TS-for-LLM through theory andexperiments. Experiments are carried out on TS classification, forecasting, andrepresentation tasks using eight frozen LLMs with various structures and sizes.The results show that the pre-trained LLM with TEST strategy can achieve betteror comparable performance than today's SOTA TS models and offer benefits forfew-shot and generalization. By treating LLM as the pattern machine, TEST canendow LLM's ability to process TS data without compromising language ability.We hope that this study will serve as a foundation for future work to supportTS+LLM progress.",
+        "Fanghua Ye, Mingming Yang, Jianhui Pang, Longyue Wang, Derek F. Wong, Emine Yilmaz, Shuming Shi, Zhaopeng Tu": {},
+        "2024-01-23T14:29:17Z": {},
+        "comprehensive evaluation methods for LLMs, lack of uncertainty quantification in current evaluation platforms": {},
+        "introducing a new benchmarking approach for LLMs that integrates uncertainty quantification, examining eight LLMs across five NLP tasks, introducing an uncertainty-aware evaluation metric called UAcc": {},
+        "\u63ed\u793a\u4e86LLMs\u7684\u51e0\u4e2a\u91cd\u8981\u6027\u8d28\uff1a\u9ad8\u51c6\u786e\u5ea6\u7684LLM\u53ef\u80fd\u8868\u73b0\u51fa\u8f83\u4f4e\u7684\u786e\u5b9a\u6027\uff1b\u8f83\u5927\u89c4\u6a21\u7684LLM\u53ef\u80fd\u6bd4\u8f83\u5c0f\u7684LLM\u8868\u73b0\u51fa\u66f4\u5927\u7684\u4e0d\u786e\u5b9a\u6027\uff1b\u6307\u4ee4\u5fae\u8c03\u5f80\u5f80\u4f1a\u589e\u52a0LLM\u7684\u4e0d\u786e\u5b9a\u6027\u3002UAcc\u6307\u6807\u53ef\u4ee5\u653e\u5927\u6216\u7f29\u5c0f\u4e00\u4e2aLLM\u76f8\u5bf9\u4e8e\u53e6\u4e00\u4e2aLLM\u7684\u76f8\u5bf9\u6539\u8fdb\uff0c\u5e76\u4e14\u751a\u81f3\u53ef\u4ee5\u6539\u53d8\u4e24\u4e2aLLM\u7684\u76f8\u5bf9\u6392\u540d\u3002\u8fd9\u4e9b\u7ed3\u679c\u5f3a\u8c03\u4e86\u5728LLM\u8bc4\u4f30\u4e2d\u8003\u8651\u4e0d\u786e\u5b9a\u6027\u7684\u610f\u4e49\u3002": {},
+        "Benchmarking LLMs via Uncertainty Quantification": "The proliferation of open-source Large Language Models (LLMs) from variousinstitutions has highlighted the urgent need for comprehensive evaluationmethods. However, current evaluation platforms, such as the widely recognizedHuggingFace open LLM leaderboard, neglect a crucial aspect -- uncertainty,which is vital for thoroughly assessing LLMs. To bridge this gap, we introducea new benchmarking approach for LLMs that integrates uncertaintyquantification. Our examination involves eight LLMs (LLM series) spanning fiverepresentative natural language processing tasks. Additionally, we introduce anuncertainty-aware evaluation metric, UAcc, which takes into account bothprediction accuracy and prediction uncertainty. Our findings reveal that: I)LLMs with higher accuracy may exhibit lower certainty; II) Larger-scale LLMsmay display greater uncertainty compared to their smaller counterparts; andIII) Instruction-finetuning tends to increase the uncertainty of LLMs. Bytaking uncertainty into account, our new UAcc metric can either amplify ordiminish the relative improvement of one LLM over another and may even changethe relative ranking of two LLMs. These results underscore the significance ofincorporating uncertainty in the evaluation of LLMs.",
+        "Vyas Raina, Adian Liusie, Mark Gales": {},
+        "2024-02-21T18:55:20Z": {},
+        "adversarial vulnerability, reliability of LLMs-as-a-judge methods": {},
+        "append short universal phrases to texts, concatenate attacks, transferability analysis": {},
+        "deceive LLMs to provide high assessment scores, pervasive nature of the adversarial vulnerabilities across different judge-LLM sizes, families and methods, significant concerns on the reliability of LLMs-as-a-judge methods": {},
+        "Is LLM-as-a-Judge Robust? Investigating Universal Adversarial Attacks on\n  Zero-shot LLM Assessment": "Large Language Models (LLMs) are powerful zero-shot assessors and areincreasingly used in real-world situations such as for written exams orbenchmarking systems. Despite this, no existing work has analyzed thevulnerability of judge-LLMs against adversaries attempting to manipulateoutputs. This work presents the first study on the adversarial robustness ofassessment LLMs, where we search for short universal phrases that when appendedto texts can deceive LLMs to provide high assessment scores. Experiments onSummEval and TopicalChat demonstrate that both LLM-scoring and pairwiseLLM-comparative assessment are vulnerable to simple concatenation attacks,where in particular LLM-scoring is very susceptible and can yield maximumassessment scores irrespective of the input text quality. Interestingly, suchattacks are transferable and phrases learned on smaller open-source LLMs can beapplied to larger closed-source models, such as GPT3.5. This highlights thepervasive nature of the adversarial vulnerabilities across different judge-LLMsizes, families and methods. Our findings raise significant concerns on thereliability of LLMs-as-a-judge methods, and underscore the importance ofaddressing vulnerabilities in LLM assessment methods before deployment inhigh-stakes real-world scenarios.",
+        "Hannah Kim, Kushan Mitra, Rafael Li Chen, Sajjadur Rahman, Dan Zhang": {},
+        "2024-02-28T04:58:07Z": {},
+        "understanding of complex, sociocultural, or domain-specific context potentially leading to incorrect annotations.": {},
+        "a collaborative approach where humans and LLMs work together to produce reliable and high-quality labels. MEGAnno+, a human-LLM collaborative annotation system that offers effective LLM agent and annotation management, convenient and robust LLM annotation, and exploratory verification of LLM labels by humans.": {},
+        "faster and cheaper labeling for various NLP tasks.": {},
+        "MEGAnno+: A Human-LLM Collaborative Annotation System": "Large language models (LLMs) can label data faster and cheaper than humansfor various NLP tasks. Despite their prowess, LLMs may fall short inunderstanding of complex, sociocultural, or domain-specific context,potentially leading to incorrect annotations. Therefore, we advocate acollaborative approach where humans and LLMs work together to produce reliableand high-quality labels. We present MEGAnno+, a human-LLM collaborativeannotation system that offers effective LLM agent and annotation management,convenient and robust LLM annotation, and exploratory verification of LLMlabels by humans.",
+        "Anjali Khurana, Hari Subramonyam, Parmit K Chilana": {},
+        "2024-02-12T19:49:58Z": {},
+        "users struggle to understand how the prompt's text relates to the LLM's responses, leading to low task completion rates; users remain unaware of inaccuracies in the LLM's responses": {},
+        "within-subject experiment with 16 participants and follow-up interviews; comparing a baseline LLM assistant with an LLM optimized for particular software contexts, SoftAIBot, which also offered guidelines for constructing appropriate prompts": {},
+        "no significant difference in LLM usage and user perceptions with or without prompt guidelines and the integration of domain context; SoftAIBot outperformed the baseline LLM": {},
+        "Why and When LLM-Based Assistants Can Go Wrong: Investigating the\n  Effectiveness of Prompt-Based Interactions for Software Help-Seeking": "Large Language Model (LLM) assistants, such as ChatGPT, have emerged aspotential alternatives to search methods for helping users navigate complex,feature-rich software. LLMs use vast training data from domain-specific texts,software manuals, and code repositories to mimic human-like interactions,offering tailored assistance, including step-by-step instructions. In thiswork, we investigated LLM-generated software guidance through a within-subjectexperiment with 16 participants and follow-up interviews. We compared abaseline LLM assistant with an LLM optimized for particular software contexts,SoftAIBot, which also offered guidelines for constructing appropriate prompts.We assessed task completion, perceived accuracy, relevance, and trust.Surprisingly, although SoftAIBot outperformed the baseline LLM, our resultsrevealed no significant difference in LLM usage and user perceptions with orwithout prompt guidelines and the integration of domain context. Most usersstruggled to understand how the prompt's text related to the LLM's responsesand often followed the LLM's suggestions verbatim, even if they were incorrect.This resulted in difficulties when using the LLM's advice for software tasks,leading to low task completion rates. Our detailed analysis also revealed thatusers remained unaware of inaccuracies in the LLM's responses, indicating a gapbetween their lack of software expertise and their ability to evaluate theLLM's assistance. With the growing push for designing domain-specific LLMassistants, we emphasize the importance of incorporating explainable,context-aware cues into LLMs to help users understand prompt-basedinteractions, identify biases, and maximize the utility of LLM assistants.",
+        "Sarah Gao, Andrew Kean Gao": {},
+        "2023-07-19T07:17:43Z": {},
+        "Large Language Models": {},
+        "Lack of comprehensive index of LLMs available": {},
+        "Hierarchical clustering using n-grams and term frequency-inverse document frequency": {},
+        "Successful identification of families of LLMs and accurate clustering of LLMs into meaningful subgroups; development of a public web application called Constellation for navigating and exploring LLMs.": {},
+        "On the Origin of LLMs: An Evolutionary Tree and Graph for 15,821 Large\n  Language Models": "Since late 2022, Large Language Models (LLMs) have become very prominent withLLMs like ChatGPT and Bard receiving millions of users. Hundreds of new LLMsare announced each week, many of which are deposited to Hugging Face, arepository of machine learning models and datasets. To date, nearly 16,000 TextGeneration models have been uploaded to the site. Given the huge influx ofLLMs, it is of interest to know which LLM backbones, settings, trainingmethods, and families are popular or trending. However, there is nocomprehensive index of LLMs available. We take advantage of the relativelysystematic nomenclature of Hugging Face LLMs to perform hierarchical clusteringand identify communities amongst LLMs using n-grams and term frequency-inversedocument frequency. Our methods successfully identify families of LLMs andaccurately cluster LLMs into meaningful subgroups. We present a public webapplication to navigate and explore Constellation, our atlas of 15,821 LLMs.Constellation rapidly generates a variety of visualizations, namelydendrograms, graphs, word clouds, and scatter plots. Constellation is availableat the following link: https://constellation.sites.stanford.edu/.",
+        "Canyu Chen, Kai Shu": {},
+        "2023-11-09T00:05:27Z": {},
+        "misinformation, fake news, rumors, combating misinformation, LLM-generated misinformation": {},
+        "profound world knowledge, strong reasoning abilities, systematic review, current efforts, interdisciplinary efforts": {},
+        "reshaping the landscape of combating misinformation, generating deceptive misinformation at scale, facilitating the progress of utilizing LLMs for fighting misinformation, calling for interdisciplinary efforts": {},
+        "Combating Misinformation in the Age of LLMs: Opportunities and\n  Challenges": "Misinformation such as fake news and rumors is a serious threat oninformation ecosystems and public trust. The emergence of Large Language Models(LLMs) has great potential to reshape the landscape of combatingmisinformation. Generally, LLMs can be a double-edged sword in the fight. Onthe one hand, LLMs bring promising opportunities for combating misinformationdue to their profound world knowledge and strong reasoning abilities. Thus, oneemergent question is: how to utilize LLMs to combat misinformation? On theother hand, the critical challenge is that LLMs can be easily leveraged togenerate deceptive misinformation at scale. Then, another important questionis: how to combat LLM-generated misinformation? In this paper, we firstsystematically review the history of combating misinformation before the adventof LLMs. Then we illustrate the current efforts and present an outlook forthese two fundamental questions respectively. The goal of this survey paper isto facilitate the progress of utilizing LLMs for fighting misinformation andcall for interdisciplinary efforts from different stakeholders for combatingLLM-generated misinformation.",
+        "Yunxin Li, Baotian Hu, Wei Wang, Xiaochun Cao, Min Zhang": {},
+        "2023-11-27T12:29:20Z": {},
+        "lack of visual knowledge enhancement in MLLMs": {},
+        "introducing modular visual memory and mixtures-of-multimodal experts architecture": {},
+        "substantial augmentation of reasoning capabilities in LLMs and competitive performance on multimodal benchmarks.": {},
+        "Towards Vision Enhancing LLMs: Empowering Multimodal Knowledge Storage\n  and Sharing in LLMs": "Recent advancements in multimodal large language models (MLLMs) have achievedsignificant multimodal generation capabilities, akin to GPT-4. These modelspredominantly map visual information into language representation space,leveraging the vast knowledge and powerful text generation abilities of LLMs toproduce multimodal instruction-following responses. We could term this methodas LLMs for Vision because of its employing LLMs for visual-languageunderstanding, yet observe that these MLLMs neglect the potential of harnessingvisual knowledge to enhance overall capabilities of LLMs, which could beregraded as Vision Enhancing LLMs. In this paper, we propose an approach calledMKS2, aimed at enhancing LLMs through empowering Multimodal Knowledge Storageand Sharing in LLMs. Specifically, we introduce the Modular Visual Memory, acomponent integrated into the internal blocks of LLMs, designed to storeopen-world visual information efficiently. Additionally, we present a softMixtures-of-Multimodal Experts architecture in LLMs to invoke multimodalknowledge collaboration during generation. Our comprehensive experimentsdemonstrate that MKS2 substantially augments the reasoning capabilities of LLMsin contexts necessitating physical or commonsense knowledge. It also deliverscompetitive results on multimodal benchmarks.",
+        "Yeonhong Park, Jake Hyun, SangLyul Cho, Bonggeun Sim, Jae W. Lee": {},
+        "2024-02-16T09:06:06Z": {},
+        "deployment costs of multiple large language models": {},
+        "any-precision quantization of large language models, post-training quantization framework, specialized software engine": {},
+        "reduces deployment costs, overlays multiple models into a single memory footprint, maintains state-of-the-art model quality and inference throughput": {},
+        "Any-Precision LLM: Low-Cost Deployment of Multiple, Different-Sized LLMs": "Recently, considerable efforts have been directed towards compressing LargeLanguage Models (LLMs), which showcase groundbreaking capabilities acrossdiverse applications but entail significant deployment costs due to their largesizes. Meanwhile, much less attention has been given to mitigating the costsassociated with deploying multiple LLMs of varying sizes despite its practicalsignificance. Thus, this paper introduces \\emph{any-precision LLM}, extendingthe concept of any-precision DNN to LLMs. Addressing challenges inany-precision LLM, we propose a lightweight method for any-precisionquantization of LLMs, leveraging a post-training quantization framework, anddevelop a specialized software engine for its efficient serving. As a result,our solution significantly reduces the high costs of deploying multiple,different-sized LLMs by overlaying LLMs quantized to varying bit-widths, suchas 3, 4, ..., $n$ bits, into a memory footprint comparable to a single $n$-bitLLM. All the supported LLMs with varying bit-widths demonstratestate-of-the-art model quality and inference throughput, proving itself to be acompelling option for deployment of multiple, different-sized LLMs. The sourcecode will be publicly available soon.",
+        "Yuqi Ren, Renren Jin, Tongxuan Zhang, Deyi Xiong": {},
+        "2024-02-28T03:38:20Z": {},
+        "evaluating the effectiveness of LLMs in simulating cognitive language processing": {},
+        "representational similarity analysis (RSA)": {},
+        "model scaling is positively correlated with LLM-brain similarity, alignment training can significantly improve LLM-brain similarity, and the performance of various LLM evaluations is highly correlated with LLM-brain similarity": {},
+        "Do Large Language Models Mirror Cognitive Language Processing?": "Large language models (LLMs) have demonstrated remarkable capabilities intext comprehension and logical reasoning, achiving or even surpassinghuman-level performance in numerous cognition tasks. As LLMs are trained frommassive textual outputs of human language cognition, it is natural to askwhether LLMs mirror cognitive language processing. Or to what extend LLMsresemble cognitive language processing? In this paper, we propose a novelmethod that bridge between LLM representations and human cognition signals toevaluate how effectively LLMs simulate cognitive language processing. We employRepresentational Similarity Analysis (RSA) to mearsure the alignment between 16mainstream LLMs and fMRI signals of the brain. We empirically investigate theimpact of a variety of factors (e.g., model scaling, alignment training,instruction appending) on such LLM-brain alignment. Experimental resultsindicate that model scaling is positively correlated with LLM-brain similarity,and alignment training can significantly improve LLM-brain similarity.Additionally, the performance of a wide range of LLM evaluations (e.g., MMLU,Chatbot Arena) is highly correlated with the LLM-brain similarity.",
+        "Xin Wang, Yu Zheng, Zhongwei Wan, Mi Zhang": {},
+        "2024-03-12T07:31:18Z": {},
+        "substantial sizes of LLMs hinder their deployment; state-of-the-art SVD-based LLM compression methods have key limitations such as truncating smaller singular values leading to higher compression loss and lack of update on remaining model parameters after SVD truncation.": {},
+        "proposed SVD-LLM is a new SVD-based LLM compression method that addresses these limitations with a truncation-aware data whitening strategy and a layer-wise closed-form model parameter update strategy.": {},
+        "evaluated on a total of 11 datasets and seven models from three different LLM families at four different scales, SVD-LLM demonstrates its superiority over state-of-the-arts, especially at high model compression ratios.": {},
+        "SVD-LLM: Truncation-aware Singular Value Decomposition for Large\n  Language Model Compression": "The advancements in Large Language Models (LLMs) have been hindered by theirsubstantial sizes, which necessitate LLM compression methods for practicaldeployment. Singular Value Decomposition (SVD) offers a promising solution forLLM compression. However, state-of-the-art SVD-based LLM compression methodshave two key limitations: truncating smaller singular values may lead to highercompression loss, and the lack of update on the remaining model parametersafter SVD truncation. In this work, we propose SVD-LLM, a new SVD-based LLMcompression method that addresses the limitations of existing methods. SVD-LLMincorporates a truncation-aware data whitening strategy to ensure a directmapping between singular values and compression loss. Moreover, SVD-LLM adoptsa layer-wise closed-form model parameter update strategy to compensate foraccuracy degradation caused by SVD truncation. We evaluate SVD-LLM on a totalof 11 datasets and seven models from three different LLM families at fourdifferent scales. Our results demonstrate the superiority of SVD-LLM overstate-of-the-arts, especially at high model compression ratios. The source codeis available at https://github.com/AIoT-MLSys-Lab/SVD-LLM.",
+        "Jiongnan Liu, Jiajie Jin, Zihan Wang, Jiehan Cheng, Zhicheng Dou, Ji-Rong Wen": {},
+        "2023-06-08T14:10:54Z": {},
+        "hallucination in generating responses": {},
+        "augmenting LLMs with information retrieval systems": {},
+        "improved factual text generation and ability to answer in-domain questions": {},
+        "RETA-LLM: A Retrieval-Augmented Large Language Model Toolkit": "Although Large Language Models (LLMs) have demonstrated extraordinarycapabilities in many domains, they still have a tendency to hallucinate andgenerate fictitious responses to user requests. This problem can be alleviatedby augmenting LLMs with information retrieval (IR) systems (also known asretrieval-augmented LLMs). Applying this strategy, LLMs can generate morefactual texts in response to user input according to the relevant contentretrieved by IR systems from external corpora as references. In addition, byincorporating external knowledge, retrieval-augmented LLMs can answer in-domainquestions that cannot be answered by solely relying on the world knowledgestored in parameters. To support research in this area and facilitate thedevelopment of retrieval-augmented LLM systems, we develop RETA-LLM, a{RET}reival-{A}ugmented LLM toolkit. In RETA-LLM, we create a complete pipelineto help researchers and users build their customized in-domain LLM-basedsystems. Compared with previous retrieval-augmented LLM systems, RETA-LLMprovides more plug-and-play modules to support better interaction between IRsystems and LLMs, including {request rewriting, document retrieval, passageextraction, answer generation, and fact checking} modules. Our toolkit ispublicly available at https://github.com/RUC-GSAI/YuLan-IR/tree/main/RETA-LLM.",
+        "Suyu Ge, Chunting Zhou, Rui Hou, Madian Khabsa, Yi-Chia Wang, Qifan Wang, Jiawei Han, Yuning Mao": {},
+        "2023-11-13T19:13:29Z": {},
+        "unsafe behaviors in LLMs": {},
+        "Multi-round Automatic Red-Teaming (MART)": {},
+        "significant increase in red-teaming scalability and safety of the target LLM": {},
+        "MART: Improving LLM Safety with Multi-round Automatic Red-Teaming": "Red-teaming is a common practice for mitigating unsafe behaviors in LargeLanguage Models (LLMs), which involves thoroughly assessing LLMs to identifypotential flaws and addressing them with responsible and accurate responses.While effective, manual red-teaming is costly, and existing automaticred-teaming typically discovers safety risks without addressing them. In thispaper, we propose a Multi-round Automatic Red-Teaming (MART) method, whichincorporates both automatic adversarial prompt writing and safe responsegeneration, significantly increasing red-teaming scalability and the safety ofthe target LLM. Specifically, an adversarial LLM and a target LLM interplaywith each other in an iterative manner, where the adversarial LLM aims togenerate challenging prompts that elicit unsafe responses from the target LLM,while the target LLM is fine-tuned with safety aligned data on theseadversarial prompts. In each round, the adversarial LLM crafts better attackson the updated target LLM, while the target LLM also improves itself throughsafety fine-tuning. On adversarial prompt benchmarks, the violation rate of anLLM with limited safety alignment reduces up to 84.7% after 4 rounds of MART,achieving comparable performance to LLMs with extensive adversarial promptwriting. Notably, model helpfulness on non-adversarial prompts remains stablethroughout iterations, indicating the target LLM maintains strong performanceon instruction following.",
+        "Masanori Hirano, Masahiro Suzuki, Hiroki Sakaji": {},
+        "2023-05-22T04:59:33Z": {},
+        "supporting languages other than English in large language models; difficulty in constructing LLMs in languages other than English": {},
+        "constructing a Japanese chat dataset for tuning LLMs; tuning an existing LLM using the constructed dataset; evaluating the performance qualitatively": {},
+        "the constructed dataset is possibly beneficial for LLMs": {},
+        "llm-japanese-dataset v0: Construction of Japanese Chat Dataset for Large\n  Language Models and its Methodology": "This study constructed a Japanese chat dataset for tuning large languagemodels (LLMs), which consist of about 8.4 million records. Recently, LLMs havebeen developed and gaining popularity. However, high-performing LLMs areusually mainly for English. There are two ways to support languages other thanEnglish by those LLMs: constructing LLMs from scratch or tuning existingmodels. However, in both ways, datasets are necessary parts. In this study, wefocused on supporting Japanese in those LLMs and making a dataset for trainingor tuning LLMs in Japanese. The dataset we constructed consisted of varioustasks, such as translation and knowledge tasks. In our experiment, we tuned anexisting LLM using our dataset and evaluated the performance qualitatively. Theresults suggest that our dataset is possibly beneficial for LLMs. However, wealso revealed some difficulties in constructing LLMs in languages other thanEnglish.",
+        "Isha Chaudhary, Vedaant V. Jain, Gagandeep Singh": {},
+        "2024-02-24T23:16:57Z": {},
+        "formal guarantees on the performance of LLMs, knowledge-comprehension capabilities of popular LLMs.": {},
+        "proposed a novel certification framework for LLM, QuaCer-C, wherein we formally certify the knowledge-comprehension capabilities of popular LLMs.": {},
+        "Our certificates are quantitative - they consist of high-confidence, tight bounds on the probability that the target LLM gives the correct answer on any relevant knowledge comprehension prompt.": {},
+        "QuaCer-C: Quantitative Certification of Knowledge Comprehension in LLMs": "Large Language Models (LLMs) have demonstrated impressive performance onseveral benchmarks. However, traditional studies do not provide formalguarantees on the performance of LLMs. In this work, we propose a novelcertification framework for LLM, QuaCer-C, wherein we formally certify theknowledge-comprehension capabilities of popular LLMs. Our certificates arequantitative - they consist of high-confidence, tight bounds on the probabilitythat the target LLM gives the correct answer on any relevant knowledgecomprehension prompt. Our certificates for the Llama, Vicuna, and Mistral LLMsindicate that the knowledge comprehension capability improves with an increasein the number of parameters and that the Mistral model is less performant thanthe rest in this evaluation.",
+        "Zhiwei Fei, Xiaoyu Shen, Dawei Zhu, Fengzhe Zhou, Zhuo Han, Songyang Zhang, Kai Chen, Zongwen Shen, Jidong Ge": {},
+        "2023-09-28T09:35:59Z": {},
+        "evaluation of legal capabilities of large language models": {},
+        "proposing a comprehensive evaluation benchmark called LawBench with three cognitive levels to assess the legal capabilities of LLMs through 20 diverse tasks covering 5 task types": {},
+        "GPT-4 is found to be the best-performing LLM in the legal domain, but there is still a long way to obtain usable and reliable LLMs for legal tasks.": {},
+        "LawBench: Benchmarking Legal Knowledge of Large Language Models": "Large language models (LLMs) have demonstrated strong capabilities in variousaspects. However, when applying them to the highly specialized, safe-criticallegal domain, it is unclear how much legal knowledge they possess and whetherthey can reliably perform legal-related tasks. To address this gap, we proposea comprehensive evaluation benchmark LawBench. LawBench has been meticulouslycrafted to have precise assessment of the LLMs' legal capabilities from threecognitive levels: (1) Legal knowledge memorization: whether LLMs can memorizeneeded legal concepts, articles and facts; (2) Legal knowledge understanding:whether LLMs can comprehend entities, events and relationships within legaltext; (3) Legal knowledge applying: whether LLMs can properly utilize theirlegal knowledge and make necessary reasoning steps to solve realistic legaltasks. LawBench contains 20 diverse tasks covering 5 task types: single-labelclassification (SLC), multi-label classification (MLC), regression, extractionand generation. We perform extensive evaluations of 51 LLMs on LawBench,including 20 multilingual LLMs, 22 Chinese-oriented LLMs and 9 legal specificLLMs. The results show that GPT-4 remains the best-performing LLM in the legaldomain, surpassing the others by a significant margin. While fine-tuning LLMson legal specific text brings certain improvements, we are still a long wayfrom obtaining usable and reliable LLMs in legal tasks. All data, modelpredictions and evaluation code are released inhttps://github.com/open-compass/LawBench/. We hope this benchmark providesin-depth understanding of the LLMs' domain-specified capabilities and speed upthe development of LLMs in the legal domain.",
+        "Xiaoyang Song, Yuta Adachi, Jessie Feng, Mouwei Lin, Linhao Yu, Frank Li, Akshat Gupta, Gopala Anumanchipalli, Simerjot Kaur": {},
+        "2024-02-22T18:57:20Z": {},
+        "ethical concerns regarding the behavior of LLMs, applicability and reliability of self-assessment tests for LLMs": {},
+        "external evaluation method, fine-tuning a Llama2-7B model as the MBTI personality predictor, prompting LLMs with situational questions and analyzing their responses using the external machine learning model": {},
+        "identification of significant differences in LLMs' personality types when generating posts versus comments, highlighting a fundamental difference between personality in LLMs and humans, call for a re-evaluation of personality definition and measurement in LLMs": {},
+        "Identifying Multiple Personalities in Large Language Models with\n  External Evaluation": "As Large Language Models (LLMs) are integrated with human daily applicationsrapidly, many societal and ethical concerns are raised regarding the behaviorof LLMs. One of the ways to comprehend LLMs' behavior is to analyze theirpersonalities. Many recent studies quantify LLMs' personalities usingself-assessment tests that are created for humans. Yet many critiques questionthe applicability and reliability of these self-assessment tests when appliedto LLMs. In this paper, we investigate LLM personalities using an alternatepersonality measurement method, which we refer to as the external evaluationmethod, where instead of prompting LLMs with multiple-choice questions in theLikert scale, we evaluate LLMs' personalities by analyzing their responsestoward open-ended situational questions using an external machine learningmodel. We first fine-tuned a Llama2-7B model as the MBTI personality predictorthat outperforms the state-of-the-art models as the tool to analyze LLMs'responses. Then, we prompt the LLMs with situational questions and ask them togenerate Twitter posts and comments, respectively, in order to assess theirpersonalities when playing two different roles. Using the external personalityevaluation method, we identify that the obtained personality types for LLMs aresignificantly different when generating posts versus comments, whereas humansshow a consistent personality profile in these two different situations. Thisshows that LLMs can exhibit different personalities based on differentscenarios, thus highlighting a fundamental difference between personality inLLMs and humans. With our work, we call for a re-evaluation of personalitydefinition and measurement in LLMs.",
+        "Siqi Wang, Hailong Yang, Xuezhu Wang, Tongxuan Liu, Pengbo Wang, Xuning Liang, Kejie Ma, Tianyu Feng, Xin You, Yongjun Bao, Yi Liu, Zhongzhi Luan, Depei Qian": {},
+        "2024-02-24T01:45:35Z": {},
+        "efficient LLM inference, autoregressive decoding, fine-tuning the LLM, low acceptance rate of SSM, high verification cost of LLM": {},
+        "pruning, quantization, speculative decoding, majority-voted mechanism, adaptive mechanism, decoupling the SSM decoding and LLM verification, pipelined execution mechanism": {},
+        "accelerates LLM inference, improves the inference performance, reduces the verification cost of LLM, achieves higher inference throughput and lower inference time": {},
+        "Minions: Accelerating Large Language Model Inference with Adaptive and\n  Collective Speculative Decoding": "Large language models (LLM) have recently attracted surging interest due totheir outstanding capabilities across various domains. However, enablingefficient LLM inference is challenging due to its autoregressive decoding thatgenerates tokens only one at a time. Although research works apply pruning orquantization to speed up LLM inference, they typically require fine-tuning theLLM, incurring significant time and economic costs. Meanwhile, speculativedecoding has been proposed to use small speculative models (SSMs) to acceleratethe inference of LLM. However, the low acceptance rate of SSM and the highverification cost of LLM prohibit further performance improvement of inference.In this paper, we propose Minions, an LLM inference system that accelerates LLMinference with a collective and adaptive speculative generation. Specifically,Minions proposes a majority-voted mechanism to leverage multiple SSMs tojointly speculate the outputs of LLM, which improves the inference performancewithout introducing prohibitive computation costs for LLM. To better trade offthe number of tokens speculated from SSM and the verification cost of LLM,Minions proposes an adaptive mechanism to dynamically determine the optimalspeculation length of SSM, which can achieve better inference performanceacross different models, datasets, and hyper-parameters. In addition, Minionsdecouples the SSM decoding and LLM verification efficiently and adopts apipelined execution mechanism to further improve the inference performance ofLLM. By comparing with the state-of-the-art LLM inference systems, wedemonstrate that Minions can achieve higher inference throughput and lowerinference time.",
+        "Lingjiao Chen, Matei Zaharia, James Zou": {},
+        "2023-05-09T05:11:02Z": {},
+        "high costs associated with querying large language models (LLMs)": {},
+        "prompt adaptation, LLM approximation, LLM cascade": {},
+        "FrugalGPT can match the performance of the best individual LLM (e.g. GPT-4) with up to 98% cost reduction or improve the accuracy over GPT-4 by 4% with the same cost.": {},
+        "FrugalGPT: How to Use Large Language Models While Reducing Cost and\n  Improving Performance": "There is a rapidly growing number of large language models (LLMs) that userscan query for a fee. We review the cost associated with querying popular LLMAPIs, e.g. GPT-4, ChatGPT, J1-Jumbo, and find that these models haveheterogeneous pricing structures, with fees that can differ by two orders ofmagnitude. In particular, using LLMs on large collections of queries and textcan be expensive. Motivated by this, we outline and discuss three types ofstrategies that users can exploit to reduce the inference cost associated withusing LLMs: 1) prompt adaptation, 2) LLM approximation, and 3) LLM cascade. Asan example, we propose FrugalGPT, a simple yet flexible instantiation of LLMcascade which learns which combinations of LLMs to use for different queries inorder to reduce cost and improve accuracy. Our experiments show that FrugalGPTcan match the performance of the best individual LLM (e.g. GPT-4) with up to98% cost reduction or improve the accuracy over GPT-4 by 4% with the same cost.The ideas and findings presented here lay a foundation for using LLMssustainably and efficiently.",
+        "Chang'an Yi, Haotian Chen, Yifan Zhang, Yonghui Xu, Lizhen Cui": {},
+        "2023-10-09T01:59:49Z": {},
+        "test-time adaptation": {},
+        "adapting a model to potential distribution shifts in the test data for semantic segmentation; issues with classic batch norm updating strategy commonly used in classification TTA; challenges of long-tailed imbalance problem in segmentation TTA": {},
+        "empirical study, batch renormalization, teacher-student scheme, pseudo-labels": {},
+        "slight performance improvement with classic batch norm updating strategy but can also harm results; teacher-student scheme enhances training stability but does not directly improve performance; long-tailed imbalance problem significantly affects segmentation TTA performance": {},
+        "A Critical Look at Classic Test-Time Adaptation Methods in Semantic\n  Segmentation": "Test-time adaptation (TTA) aims to adapt a model, initially trained ontraining data, to potential distribution shifts in the test data. Most existingTTA studies, however, focus on classification tasks, leaving a notable gap inthe exploration of TTA for semantic segmentation. This pronounced emphasis onclassification might lead numerous newcomers and engineers to mistakenly assumethat classic TTA methods designed for classification can be directly applied tosegmentation. Nonetheless, this assumption remains unverified, posing an openquestion. To address this, we conduct a systematic, empirical study to disclosethe unique challenges of segmentation TTA, and to determine whether classic TTAstrategies can effectively address this task. Our comprehensive results haveled to three key observations. First, the classic batch norm updating strategy,commonly used in classification TTA, only brings slight performanceimprovement, and in some cases it might even adversely affect the results. Evenwith the application of advanced distribution estimation techniques like batchrenormalization, the problem remains unresolved. Second, the teacher-studentscheme does enhance training stability for segmentation TTA in the presence ofnoisy pseudo-labels. However, it cannot directly result in performanceimprovement compared to the original model without TTA. Third, segmentation TTAsuffers a severe long-tailed imbalance problem, which is substantially morecomplex than that in TTA for classification. This long-tailed challengesignificantly affects segmentation TTA performance, even when the accuracy ofpseudo-labels is high. In light of these observations, we conclude that TTA forsegmentation presents significant challenges, and simply using classic TTAmethods cannot address this problem well.",
+        "Masanari Kimura": {},
+        "2024-02-10T06:49:08Z": {},
+        "Machine Learning": {},
+        "Understanding the theoretical aspects of Test-Time Augmentation (TTA)": {},
+        "The paper provides theoretical guarantees for TTA and analyzes its behavior.": {},
+        "The paper contributes to the understanding of TTA and its potential use in machine learning.": {},
+        "Understanding Test-Time Augmentation": "Test-Time Augmentation (TTA) is a very powerful heuristic that takesadvantage of data augmentation during testing to produce averaged output.Despite the experimental effectiveness of TTA, there is insufficient discussionof its theoretical aspects. In this paper, we aim to give theoreticalguarantees for TTA and clarify its behavior.",
+        "Raphael M. Tromer, Leonardo D. Machado, Cristiano F. Woellner, Douglas S. Galvao": {},
+        "2020-05-01T21:05:24Z": {},
+        "semiconductor materials": {},
+        "investigating structural, electronic, and optical properties of TTA-2D; inducing semiconductor-metal transition; ensuring thermal stability; optimizing absorption spectrum; minimizing reflectivity": {},
+        "using ab initio methods; applying uniaxial strain; analyzing refractive index and reflectivity": {},
+        "discovering that TTA-2D is a small indirect bandgap semiconductor with potential for solar cell applications": {},
+        "Thiophene-Tetrathia-Annulene monolayer (TTA-2D): A new 2D semiconductor\n  material with indirect bandgap": "We propose a new 2D semiconductor material (TTA-2D) based on the molecularstructure of Thiophene-Tetrathia-Annulene (TTA). The TTA-2D structural,electronic, and optical properties were investigated using \\textit{ab initio}methods. Our results show that TTA-2D is a small indirect bandgap semiconductor($0.6$ eV). A semiconductor-metal transition can be induced by applying auniaxial strain. Our results also show that TTA-2D is thermally stable up to$T=1000$ K. TTA-2D absorbs in a large spectral range, from infrared toultraviolet regions. Values of refractive index and reflectivity show thatTTA-2D reflects only $10\\%$ of the incident light in the visible region. Theseresults suggest that TTA-2D is a promising material for solar cellapplications.",
+        "Eungyeup Kim, Mingjie Sun, Aditi Raghunathan, Zico Kolter": {},
+        "2023-10-07T23:21:25Z": {},
+        "difficulties in evaluating TTA performance, miscalibration after TTA, unreliable hyperparameter tuning for adaptation": {},
+        "estimating OOD accuracy without labeled data, calibrating TTAed models without label information, reliably determining hyperparameters for TTA without any labeled validation data": {},
+        "improved reliability of TTA methods, precise evaluation of TTA methods, improved OOD accuracy and calibration error.": {},
+        "Reliable Test-Time Adaptation via Agreement-on-the-Line": "Test-time adaptation (TTA) methods aim to improve robustness to distributionshifts by adapting models using unlabeled data from the shifted testdistribution. However, there remain unresolved challenges that undermine thereliability of TTA, which include difficulties in evaluating TTA performance,miscalibration after TTA, and unreliable hyperparameter tuning for adaptation.In this work, we make a notable and surprising observation that TTAed modelsstrongly show the agreement-on-the-line phenomenon (Baek et al., 2022) across awide range of distribution shifts. We find such linear trends occurconsistently in a wide range of models adapted with various hyperparameters,and persist in distributions where the phenomenon fails to hold in vanillamodels (i.e., before adaptation). We leverage these observations to make TTAmethods more reliable in three perspectives: (i) estimating OOD accuracy(without labeled data) to determine when TTA helps and when it hurts, (ii)calibrating TTAed models without label information, and (iii) reliablydetermining hyperparameters for TTA without any labeled validation data.Through extensive experiments, we demonstrate that various TTA methods can beprecisely evaluated, both in terms of their improvements and degradations.Moreover, our proposed methods on unsupervised calibration and hyperparameterstuning for TTA achieve results close to the ones assuming access toground-truth labels, in terms of both OOD accuracy and calibration error.",
+        "Trung-Hieu Hoang, Duc Minh Vo, Minh N. Do": {},
+        "2023-11-30T02:24:44Z": {},
+        "error accumulation in TTA models when repeatedly exposed to previous testing environments": {},
+        "proposing a novel testing setting called episodic TTA, designing a simulation of TTA process on a simple yet representative epsilon-perturbed Gaussian Mixture Model Classifier, proposing a method called persistent TTA (PeTTA)": {},
+        "theoretical findings revealing factors contributing to the gradual degeneration of TTA methods over time, demonstrating the stability of PeTTA in the face of episodic TTA scenarios through experiments on various benchmarks.": {},
+        "Persistent Test-time Adaptation in Episodic Testing Scenarios": "Current test-time adaptation (TTA) approaches aim to adapt to environmentsthat change continuously. Yet, when the environments not only change but alsorecur in a correlated manner over time, such as in the case of day-nightsurveillance cameras, it is unclear whether the adaptability of these methodsis sustained after a long run. This study aims to examine the erroraccumulation of TTA models when they are repeatedly exposed to previous testingenvironments, proposing a novel testing setting called episodic TTA. To studythis phenomenon, we design a simulation of TTA process on a simple yetrepresentative $\\epsilon$-perturbed Gaussian Mixture Model Classifier andderive the theoretical findings revealing the dataset- and algorithm-dependentfactors that contribute to the gradual degeneration of TTA methods throughtime. Our investigation has led us to propose a method, named persistent TTA(PeTTA). PeTTA senses the model divergence towards a collapsing and adjusts theadaptation strategy of TTA, striking a balance between two primary objectives:adaptation and preventing model collapse. The stability of PeTTA in the face ofepisodic TTA scenarios has been demonstrated through a set of comprehensiveexperiments on various benchmarks.",
+        "Tong Wu, Feiran Jia, Xiangyu Qi, Jiachen T. Wang, Vikash Sehwag, Saeed Mahloujifar, Prateek Mittal": {},
+        "2023-01-29T22:58:05Z": {},
+        "security vulnerability, distribution shifts": {},
+        "Distribution Invading Attack (DIA)": {},
+        "adversaries can cause models using TTA to misclassify benign and unperturbed test data": {},
+        "Uncovering Adversarial Risks of Test-Time Adaptation": "Recently, test-time adaptation (TTA) has been proposed as a promisingsolution for addressing distribution shifts. It allows a base model to adapt toan unforeseen distribution during inference by leveraging the information fromthe batch of (unlabeled) test data. However, we uncover a novel securityvulnerability of TTA based on the insight that predictions on benign samplescan be impacted by malicious samples in the same batch. To exploit thisvulnerability, we propose Distribution Invading Attack (DIA), which injects asmall fraction of malicious data into the test batch. DIA causes models usingTTA to misclassify benign and unperturbed test data, providing an entirely newcapability for adversaries that is infeasible in canonical machine learningpipelines. Through comprehensive evaluations, we demonstrate the higheffectiveness of our attack on multiple benchmarks across six TTA methods. Inresponse, we investigate two countermeasures to robustify the existing insecureTTA implementations, following the principle of \"security by design\". Together,we hope our findings can make the community aware of the utility-securitytradeoffs in deploying TTA and provide valuable insights for developing robustTTA approaches.",
+        "Taesik Gong, Yewon Kim, Taeckyung Lee, Sorn Chottananurak, Sung-Ju Lee": {},
+        "2023-10-16T05:15:35Z": {},
+        "continual learning": {},
+        "distributional shifts between training and testing data, noisy test samples": {},
+        "test-time adaptation, high-confidence uniform-class sampling, entropy-sharpness minimization": {},
+        "improves robustness of model parameters against large gradients from noisy samples, outperforms state-of-the-art TTA methods under the presence of noisy samples": {},
+        "SoTTA: Robust Test-Time Adaptation on Noisy Data Streams": "Test-time adaptation (TTA) aims to address distributional shifts betweentraining and testing data using only unlabeled test data streams for continualmodel adaptation. However, most TTA methods assume benign test streams, whiletest samples could be unexpectedly diverse in the wild. For instance, an unseenobject or noise could appear in autonomous driving. This leads to a new threatto existing TTA algorithms; we found that prior TTA algorithms suffer fromthose noisy test samples as they blindly adapt to incoming samples. To addressthis problem, we present Screening-out Test-Time Adaptation (SoTTA), a novelTTA algorithm that is robust to noisy samples. The key enabler of SoTTA istwo-fold: (i) input-wise robustness via high-confidence uniform-class samplingthat effectively filters out the impact of noisy samples and (ii)parameter-wise robustness via entropy-sharpness minimization that improves therobustness of model parameters against large gradients from noisy samples. Ourevaluation with standard TTA benchmarks with various noisy scenarios shows thatour method outperforms state-of-the-art TTA methods under the presence of noisysamples and achieves comparable accuracy to those methods without noisysamples. The source code is available at https://github.com/taeckyung/SoTTA .",
+        "Junha Song, Kwanyong Park, InKyu Shin, Sanghyun Woo, Chaoning Zhang, In So Kweon": {},
+        "2022-12-16T09:02:01Z": {},
+        "robotics": {},
+        "test-time adaptation (TTA), dynamic distributional changes, overfitting": {},
+        "robust TTA framework with compound domain knowledge management, novel regularization": {},
+        "consistent performance improvements in diverse TTA scenarios, especially on dynamic domain shifts": {},
+        "Test-time Adaptation in the Dynamic World with Compound Domain Knowledge\n  Management": "Prior to the deployment of robotic systems, pre-training the deep-recognitionmodels on all potential visual cases is infeasible in practice. Hence,test-time adaptation (TTA) allows the model to adapt itself to novelenvironments and improve its performance during test time (i.e., lifelongadaptation). Several works for TTA have shown promising adaptation performancesin continuously changing environments. However, our investigation reveals thatexisting methods are vulnerable to dynamic distributional changes and oftenlead to overfitting of TTA models. To address this problem, this paper firstpresents a robust TTA framework with compound domain knowledge management. Ourframework helps the TTA model to harvest the knowledge of multiplerepresentative domains (i.e., compound domain) and conduct the TTA based on thecompound domain knowledge. In addition, to prevent overfitting of the TTAmodel, we devise novel regularization which modulates the adaptation ratesusing domain-similarity between the source and the current target domain. Withthe synergy of the proposed framework and regularization, we achieve consistentperformance improvements in diverse TTA scenarios, especially on dynamic domainshifts. We demonstrate the generality of proposals via extensive experimentsincluding image classification on ImageNet-C and semantic segmentation on GTA5,C-driving, and corrupted Cityscapes datasets.",
+        "Hai Ye, Yuyang Ding, Juntao Li, Hwee Tou Ng": {},
+        "2023-02-09T13:10:53Z": {},
+        "question answering": {},
+        "model robustness, distribution shifts": {},
+        "robustness tuning, test-time adaptation, online imitation learning": {},
+        "improving model performance after deployment, comparison with previous methods": {},
+        "Robust Question Answering against Distribution Shifts with Test-Time\n  Adaptation: An Empirical Study": "A deployed question answering (QA) model can easily fail when the test datahas a distribution shift compared to the training data. Robustness tuning (RT)methods have been widely studied to enhance model robustness againstdistribution shifts before model deployment. However, can we improve a modelafter deployment? To answer this question, we evaluate test-time adaptation(TTA) to improve a model after deployment. We first introduce COLDQA, a unifiedevaluation benchmark for robust QA against text corruption and changes inlanguage and domain. We then evaluate previous TTA methods on COLDQA andcompare them to RT methods. We also propose a novel TTA method called onlineimitation learning (OIL). Through extensive experiments, we find that TTA iscomparable to RT methods, and applying TTA after RT can significantly boost theperformance on COLDQA. Our proposed OIL improves TTA to be more robust tovariation in hyper-parameters and test distributions over time.",
+        "Yongcan Yu, Lijun Sheng, Ran He, Jian Liang": {},
+        "2023-07-06T16:59:53Z": {},
+        "test time adaptation": {},
+        "lack of consistent and fair benchmarks to validate the effectiveness of tta methods": {},
+        "evaluating 13 prominent tta methods and their variants on five widely used image classification datasets": {},
+        "aiming to provide researchers and practitioners with a reliable means of assessing and comparing the effectiveness of tta methods": {},
+        "Benchmarking Test-Time Adaptation against Distribution Shifts in Image\n  Classification": "Test-time adaptation (TTA) is a technique aimed at enhancing thegeneralization performance of models by leveraging unlabeled samples solelyduring prediction. Given the need for robustness in neural network systems whenfaced with distribution shifts, numerous TTA methods have recently beenproposed. However, evaluating these methods is often done under differentsettings, such as varying distribution shifts, backbones, and designingscenarios, leading to a lack of consistent and fair benchmarks to validatetheir effectiveness. To address this issue, we present a benchmark thatsystematically evaluates 13 prominent TTA methods and their variants on fivewidely used image classification datasets: CIFAR-10-C, CIFAR-100-C, ImageNet-C,DomainNet, and Office-Home. These methods encompass a wide range of adaptationscenarios (e.g. online adaptation v.s. offline adaptation, instance adaptationv.s. batch adaptation v.s. domain adaptation). Furthermore, we explore thecompatibility of different TTA methods with diverse network backbones. Toimplement this benchmark, we have developed a unified framework in PyTorch,which allows for consistent evaluation and comparison of the TTA methods acrossthe different datasets and network architectures. By establishing thisbenchmark, we aim to provide researchers and practitioners with a reliablemeans of assessing and comparing the effectiveness of TTA methods in improvingmodel robustness and generalization performance. Our code is available athttps://github.com/yuyongcan/Benchmark-TTA.",
+        "Tianshuo Cong, Xinlei He, Yun Shen, Yang Zhang": {},
+        "2023-08-16T17:00:32Z": {},
+        "machine learning": {},
+        "distribution shifts, test-time adaptation (TTA), test-time poisoning attacks": {},
+        "continuous fine-tuning, generating poisoned samples based on surrogate models": {},
+        "vulnerability of TTA methods to test-time poisoning attacks, degradation of target model's performance": {},
+        "Test-Time Poisoning Attacks Against Test-Time Adaptation Models": "Deploying machine learning (ML) models in the wild is challenging as itsuffers from distribution shifts, where the model trained on an original domaincannot generalize well to unforeseen diverse transfer domains. To address thischallenge, several test-time adaptation (TTA) methods have been proposed toimprove the generalization ability of the target pre-trained models under testdata to cope with the shifted distribution. The success of TTA can be creditedto the continuous fine-tuning of the target model according to thedistributional hint from the test samples during test time. Despite beingpowerful, it also opens a new attack surface, i.e., test-time poisoningattacks, which are substantially different from previous poisoning attacks thatoccur during the training time of ML models (i.e., adversaries cannot intervenein the training process). In this paper, we perform the first test-timepoisoning attack against four mainstream TTA methods, including TTT, DUA, TENT,and RPL. Concretely, we generate poisoned samples based on the surrogate modelsand feed them to the target TTA models. Experimental results show that the TTAmethods are generally vulnerable to test-time poisoning attacks. For instance,the adversary can feed as few as 10 poisoned samples to degrade the performanceof the target model from 76.20% to 41.83%. Our results demonstrate that TTAalgorithms lacking a rigorous security assessment are unsuitable for deploymentin real-life scenarios. As such, we advocate for the integration of defensesagainst test-time poisoning attacks into the design of TTA methods.",
+        "Jinlong Xue, Yayue Deng, Yingming Gao, Ya Li": {},
+        "2024-01-02T05:42:14Z": {},
+        "generation quality and text-audio alignment": {},
+        "adapting T2I model frameworks to TTA task, leveraging inherent generative strengths and precise cross-modal alignment": {},
+        "surpasses previous TTA approaches using limited data and computational resource, superior capability in generating audios that accurately match textual descriptions": {},
+        "Auffusion: Leveraging the Power of Diffusion and Large Language Models\n  for Text-to-Audio Generation": "Recent advancements in diffusion models and large language models (LLMs) havesignificantly propelled the field of AIGC. Text-to-Audio (TTA), a burgeoningAIGC application designed to generate audio from natural language prompts, isattracting increasing attention. However, existing TTA studies often strugglewith generation quality and text-audio alignment, especially for complextextual inputs. Drawing inspiration from state-of-the-art Text-to-Image (T2I)diffusion models, we introduce Auffusion, a TTA system adapting T2I modelframeworks to TTA task, by effectively leveraging their inherent generativestrengths and precise cross-modal alignment. Our objective and subjectiveevaluations demonstrate that Auffusion surpasses previous TTA approaches usinglimited data and computational resource. Furthermore, previous studies in T2Irecognizes the significant impact of encoder choice on cross-modal alignment,like fine-grained details and object bindings, while similar evaluation islacking in prior TTA works. Through comprehensive ablation studies andinnovative cross-attention map visualizations, we provide insightfulassessments of text-audio alignment in TTA. Our findings reveal Auffusion'ssuperior capability in generating audios that accurately match textualdescriptions, which further demonstrated in several related tasks, such asaudio style transfer, inpainting and other manipulations. Our implementationand demos are available at https://auffusion.github.io.",
+        "Yeongtak Oh, Jonghyun Lee, Jooyoung Choi, Dahuin Jung, Uiwon Hwang, Sungroh Yoon": {},
+        "2024-03-16T12:18:20Z": {},
+        "unforeseen distribution shifts, resource requirements, limitations of conventional model updating TTA approaches": {},
+        "latent diffusion model, corruption modeling scheme, distilled variant, data augmentation": {},
+        "enhanced robustness, faster runtime, improved performance compared to baselines": {},
+        "Efficient Diffusion-Driven Corruption Editor for Test-Time Adaptation": "Test-time adaptation (TTA) addresses the unforeseen distribution shiftsoccurring during test time. In TTA, both performance and, memory and timeconsumption serve as crucial considerations. A recent diffusion-based TTAapproach for restoring corrupted images involves image-level updates. However,using pixel space diffusion significantly increases resource requirementscompared to conventional model updating TTA approaches, revealing limitationsas a TTA method. To address this, we propose a novel TTA method by leveraging alatent diffusion model (LDM) based image editing model and fine-tuning it withour newly introduced corruption modeling scheme. This scheme enhances therobustness of the diffusion model against distribution shifts by creating(clean, corrupted) image pairs and fine-tuning the model to edit corruptedimages into clean ones. Moreover, we introduce a distilled variant toaccelerate the model for corruption editing using only 4 network functionevaluations (NFEs). We extensively validated our method across variousarchitectures and datasets including image and video domains. Our modelachieves the best performance with a 100 times faster runtime than that of adiffusion-based baseline. Furthermore, it outpaces the speed of the modelupdating TTA method based on data augmentation threefold, rendering animage-level updating approach more practical.",
+        "D. Y. Medina-Velazquez, U. Caldi\u00f1o, A. Morales-Ramirez, J. Reyes-Miranda, R. E. Lopez, R. Escudero, R. Ruiz-Guerrero, M. F. Morales Pereza": {},
+        "2018-09-07T21:13:19Z": {},
+        "Materials Science": {},
+        "Synthesis and characterization of Terbium-based Metal-Organic Frameworks": {},
+        "FTIR, NMR, SEM, TEM, XRD, Photoluminescence, Energy Transfer Efficiency, Decay Time Analysis": {},
+        "Enhanced photoluminescence intensity and energy transfer efficiency, differences in crystallinity and lifetime depending on terbium concentration.": {},
+        "Synthesis of luminescent terbium-thenoyltriflouroacetone MOF nanorods\n  for green laser application": "In this study, a thenoyltriflouroacetone ligand (TTA) with a Tb3+ MOF wassynthesized (Tb=10 and 50% mol) and its structural and luminescent propertieswere analyzed. The metalorganic compound was generated in a simple one-potreaction from terbium nitrate and 2-thenoyltrifluoroacetone precursors at roomtemperature. By means of FTIR, it was confirmed the presence of carbon groups,which made possible the terbium ion chelation, and also the Tb-O bondsvibration modes. HNMR results confirm that the complex with 10% mol of Tb3+contains three coordinates molecules of TTA and two waters molecules. Thepowders exhibit rod-like morphology with size about 170 nm of diameter and alength about 2 {\\mu}m, the rod-like nature of powders was confirmed by SEM andTEM analyses. By XRD it was concluded that at higher terbium concentration(TTA-50Tb sample) higher the crystallite size and crystallinity, in fact theTTA-10Tb sample shows a partial-amorphous nature. By photoluminescenceanalyses, the 5D4-7FJ (J=3, 4, 5 and 6) emissions were recorded for bothsynthesized samples ({\\lambda}exc=376 nm). Furthermore, it was observed thatthe emission intensity was enhanced in a factor of 3.5 for the TTA-50Tb. Theenergy transfer efficiency from TTA to Tb3+ (antenna effect) was 0.984 forTTA-10Tb and 0.993 for TTA-50Tb. Decay time analyses indicate effectivelifetime of 1.45 and 1.60ms for the samples doped at 10 and 50%, respectively,indicating that the forbidden transition rules are stronger at highercrystallinity. The integrated intensities of the 5D4 - 7F5 (green at 541 nm)and 5D4 - 7F6 (blue at 486 nm) emissions and their intensity ratios IG/IB upon376 nm excitation have been evaluated for TTA-10Tb andTTA-50Tb samples.",
+        "Seffi Cohen, Niv Goldshlager, Lior Rokach, Bracha Shapira": {},
+        "2021-10-29T11:55:41Z": {},
+        "anomaly detection": {},
+        "identification of abnormal events, no studies utilizing test-time augmentation (TTA) for anomaly detection in tabular data": {},
+        "test-time augmentation (TTA), TTAD augments a test instance based on its nearest neighbors, various methods including the k-Means centroid and SMOTE methods, Siamese network to learn an advanced distance metric": {},
+        "improving anomaly detection performance, significantly higher AUC results on all datasets evaluated.": {},
+        "Boosting Anomaly Detection Using Unsupervised Diverse Test-Time\n  Augmentation": "Anomaly detection is a well-known task that involves the identification ofabnormal events that occur relatively infrequently. Methods for improvinganomaly detection performance have been widely studied. However, no studiesutilizing test-time augmentation (TTA) for anomaly detection in tabular datahave been performed. TTA involves aggregating the predictions of severalsynthetic versions of a given test sample; TTA produces different points ofview for a specific test instance and might decrease its prediction bias. Wepropose the Test-Time Augmentation for anomaly Detection (TTAD) technique, aTTA-based method aimed at improving anomaly detection performance. TTADaugments a test instance based on its nearest neighbors; various methods,including the k-Means centroid and SMOTE methods, are used to produce theaugmentations. Our technique utilizes a Siamese network to learn an advanceddistance metric when retrieving a test instance's neighbors. Our experimentsshow that the anomaly detector that uses our TTA technique achievedsignificantly higher AUC results on all datasets evaluated.",
+        "Mario D\u00f6bler, Robert A. Marsden, Bin Yang": {},
+        "2022-11-23T16:14:45Z": {},
+        "test-time adaption (TTA)": {},
+        "domain shifts, error accumulation": {},
+        "symmetric cross-entropy, mean teachers, contrastive learning": {},
+        "improving model performance, addressing sequential domain shifts": {},
+        "Robust Mean Teacher for Continual and Gradual Test-Time Adaptation": "Since experiencing domain shifts during test-time is inevitable in practice,test-time adaption (TTA) continues to adapt the model after deployment.Recently, the area of continual and gradual test-time adaptation (TTA) emerged.In contrast to standard TTA, continual TTA considers not only a single domainshift, but a sequence of shifts. Gradual TTA further exploits the property thatsome shifts evolve gradually over time. Since in both settings long testsequences are present, error accumulation needs to be addressed for methodsrelying on self-training. In this work, we propose and show that in the settingof TTA, the symmetric cross-entropy is better suited as a consistency loss formean teachers compared to the commonly used cross-entropy. This is justified byour analysis with respect to the (symmetric) cross-entropy's gradientproperties. To pull the test feature space closer to the source domain, wherethe pre-trained model is well posed, contrastive learning is leveraged. Sinceapplications differ in their requirements, we address several settings,including having source data available and the more challenging source-freesetting. We demonstrate the effectiveness of our proposed method 'robust meanteacher' (RMT) on the continual and gradual corruption benchmarks CIFAR10C,CIFAR100C, and Imagenet-C. We further consider ImageNet-R and propose a newcontinual DomainNet-126 benchmark. State-of-the-art results are achieved on allbenchmarks.",
+        "Sunghyun Park, Seunghan Yang, Jaegul Choo, Sungrack Yun": {},
+        "2023-08-17T06:37:37Z": {},
+        "imbalanced label distribution, covariate and label shifts": {},
+        "novel label shift adapter, estimation of label distribution, production of optimal parameters, computationally efficient prediction of parameters for pre-trained source model": {},
+        "substantial performance improvements under joint presence of label and covariate shifts": {},
+        "Label Shift Adapter for Test-Time Adaptation under Covariate and Label\n  Shifts": "Test-time adaptation (TTA) aims to adapt a pre-trained model to the targetdomain in a batch-by-batch manner during inference. While label distributionsoften exhibit imbalances in real-world scenarios, most previous TTA approachestypically assume that both source and target domain datasets have balancedlabel distribution. Due to the fact that certain classes appear more frequentlyin certain domains (e.g., buildings in cities, trees in forests), it is naturalthat the label distribution shifts as the domain changes. However, we discoverthat the majority of existing TTA methods fail to address the coexistence ofcovariate and label shifts. To tackle this challenge, we propose a novel labelshift adapter that can be incorporated into existing TTA approaches to dealwith label shifts during the TTA process effectively. Specifically, we estimatethe label distribution of the target domain to feed it into the label shiftadapter. Subsequently, the label shift adapter produces optimal parameters forthe target label distribution. By predicting only the parameters for a part ofthe pre-trained source model, our approach is computationally efficient and canbe easily applied, regardless of the model architectures. Through extensiveexperiments, we demonstrate that integrating our strategy with TTA approachesleads to substantial performance improvements under the joint presence of labeland covariate shifts.",
+        "Kyle O'Brien, Nathan Ng, Isha Puri, Jorge Mendez, Hamid Palangi, Yoon Kim, Marzyeh Ghassemi, Thomas Hartvigsen": {},
+        "2024-02-13T05:33:35Z": {},
+        "natural language processing": {},
+        "test-time augmentation, out-of-distribution robustness": {},
+        "LLM-generated augmentations, selective augmentation based on prediction entropy": {},
+        "improved OOD robustness for BERT and T5 models, maintained average ID performance, reduced rate of expensive LLM augmentations": {},
+        "Improving Black-box Robustness with In-Context Rewriting": "Machine learning models often excel on in-distribution (ID) data but strugglewith unseen out-of-distribution (OOD) inputs. Most techniques for improving OODrobustness are not applicable to settings where the model is effectively ablack box, such as when the weights are frozen, retraining is costly, or themodel is leveraged via an API. Test-time augmentation (TTA) is a simplepost-hoc technique for improving robustness that sidesteps black-boxconstraints by aggregating predictions across multiple augmentations of thetest input. TTA has seen limited use in NLP due to the challenge of generatingeffective natural language augmentations. In this work, we propose LLM-TTA,which uses LLM-generated augmentations as TTA's augmentation function. LLM-TTAoutperforms conventional augmentation functions across sentiment, toxicity, andnews classification tasks for BERT and T5 models, with BERT's OOD robustnessimproving by an average of 4.30 percentage points without regressing average IDperformance. We explore selectively augmenting inputs based on predictionentropy to reduce the rate of expensive LLM augmentations, allowing us tomaintain performance gains while reducing the average number of generatedaugmentations by 57.76%. LLM-TTA is agnostic to the task model architecture,does not require OOD labels, and is effective across low and high-resourcesettings. We share our data, models, and code for reproducibility.",
+        "Haozhi Cao, Yuecong Xu, Jianfei Yang, Pengyu Yin, Xingyu Ji, Shenghai Yuan, Lihua Xie": {},
+        "2024-03-11T06:56:08Z": {},
+        "multi-modal test-time adaptation": {},
+        "unstable predictions across time in previous MM-TTA methods": {},
+        "leveraging reliable cross-modal spatial-temporal correspondences for multi-modal 3D segmentation, constructing ST voxel to capture temporally local prediction consistency, filtering out ST voxels with high ST entropy, conducting cross-modal learning with attention to reliable and consistent predictions among both spatial and temporal neighborhoods": {},
+        "state-of-the-art performance on three different MM-TTA benchmarks": {},
+        "Reliable Spatial-Temporal Voxels For Multi-Modal Test-Time Adaptation": "Multi-modal test-time adaptation (MM-TTA) is proposed to adapt models to anunlabeled target domain by leveraging the complementary multi-modal inputs inan online manner. Previous MM-TTA methods rely on predictions of cross-modalinformation in each input frame, while they ignore the fact that predictions ofgeometric neighborhoods within consecutive frames are highly correlated,leading to unstable predictions across time. To fulfill this gap, we proposeReLiable Spatial-temporal Voxels (Latte), an MM-TTA method that leveragesreliable cross-modal spatial-temporal correspondences for multi-modal 3Dsegmentation. Motivated by the fact that reliable predictions should beconsistent with their spatial-temporal correspondences, Latte aggregatesconsecutive frames in a slide window manner and constructs ST voxel to capturetemporally local prediction consistency for each modality. After filtering outST voxels with high ST entropy, Latte conducts cross-modal learning for eachpoint and pixel by attending to those with reliable and consistent predictionsamong both spatial and temporal neighborhoods. Experimental results show thatLatte achieves state-of-the-art performance on three different MM-TTAbenchmarks compared to previous MM-TTA or TTA methods.",
+        "Shuaicheng Niu, Jiaxiang Wu, Yifan Zhang, Zhiquan Wen, Yaofo Chen, Peilin Zhao, Mingkui Tan": {},
+        "2023-02-24T02:03:41Z": {},
+        "unstable TTA, mixed distribution shifts, small batch sizes, online imbalanced label distribution shifts": {},
+        "batch-agnostic norm layers (group or layer norm), sharpness-aware and reliable entropy minimization method (SAR)": {},
+        "improvement of model performance, reduction of noise in test samples, stabilization of TTA": {},
+        "Towards Stable Test-Time Adaptation in Dynamic Wild World": "Test-time adaptation (TTA) has shown to be effective at tackling distributionshifts between training and testing data by adapting a given model on testsamples. However, the online model updating of TTA may be unstable and this isoften a key obstacle preventing existing TTA methods from being deployed in thereal world. Specifically, TTA may fail to improve or even harm the modelperformance when test data have: 1) mixed distribution shifts, 2) small batchsizes, and 3) online imbalanced label distribution shifts, which are quitecommon in practice. In this paper, we investigate the unstable reasons and findthat the batch norm layer is a crucial factor hindering TTA stability.Conversely, TTA can perform more stably with batch-agnostic norm layers, \\ie,group or layer norm. However, we observe that TTA with group and layer normsdoes not always succeed and still suffers many failure cases. By digging intothe failure cases, we find that certain noisy test samples with large gradientsmay disturb the model adaption and result in collapsed trivial solutions, \\ie,assigning the same class label for all samples. To address the above collapseissue, we propose a sharpness-aware and reliable entropy minimization method,called SAR, for further stabilizing TTA from two aspects: 1) remove partialnoisy samples with large gradients, 2) encourage model weights to go to a flatminimum so that the model is robust to the remaining noisy samples. Promisingresults demonstrate that SAR performs more stably over prior methods and iscomputationally efficient under the above wild test scenarios.",
+        "Arghya Pal, Vineeth N Balasubramanian": {},
+        "2019-03-04T07:02:42Z": {},
+        "meta-learning": {},
+        "zero-shot tasks": {},
+        "TTNet, regressing model parameters, learning from the model parameters of known tasks and the correlation of known tasks to zero-shot tasks": {},
+        "out-performs state-of-the-art models on each of the zero-shot tasks, shows promise on zero-shot task transfer, can also be used in transfer learning": {},
+        "Zero-Shot Task Transfer": "In this work, we present a novel meta-learning algorithm, i.e. TTNet, thatregresses model parameters for novel tasks for which no ground truth isavailable (zero-shot tasks). In order to adapt to novel zero-shot tasks, ourmeta-learner learns from the model parameters of known tasks (with groundtruth) and the correlation of known tasks to zero-shot tasks. Such intuitionfinds its foothold in cognitive science, where a subject (human baby) can adaptto a novel-concept (depth understanding) by correlating it with old concepts(hand movement or self-motion), without receiving explicit supervision. Weevaluated our model on the Taskonomy dataset, with four tasks as zero-shot:surface-normal, room layout, depth, and camera pose estimation. These taskswere chosen based on the data acquisition complexity and the complexityassociated with the learning process using a deep network. Our proposedmethodology out-performs state-of-the-art models (which use ground truth)oneach of our zero-shot tasks, showing promise on zero-shot task transfer. Wealso conducted extensive experiments to study the various choices of ourmethodology, as well as showed how the proposed method can also be used intransfer learning. To the best of our knowledge, this is the firstsuch efforton zero-shot learning in the task space."
+    }
+}
